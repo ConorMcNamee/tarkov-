@@ -1,19 +1,6 @@
 const puppeteer = require('puppeteer');
 const createCsvWriter = require('csv-writer').createObjectCsvWriter;
 
-const csvWriter = createCsvWriter({
-    path: 'quests.csv',
-    header: [
-        {id: 'title', title: 'Quest Title'},
-        {id: 'type', title: 'Type'},
-        {id: 'objectives', title: 'Objectives'},
-        {id: 'rewards', title: 'Rewards'},
-        {id: 'kappa', title: 'Required for Kappa'},
-        {id: 'prev', title: 'Previous Quest'},
-        {id: 'next', title: 'next'},
-    ]
-});
-
 (async () => {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
@@ -25,6 +12,20 @@ const csvWriter = createCsvWriter({
 
     for(let name of traderNames) {
         console.log("Currently searching prapor tasks")
+        
+        const csvWriter = createCsvWriter({
+            path: `${name}_quests.csv`,
+            header: [
+                {id: 'title', title: 'Quest Title'},
+                {id: 'type', title: 'Type'},
+                {id: 'objectives', title: 'Objectives'},
+                {id: 'rewards', title: 'Rewards'},
+                {id: 'kappa', title: 'Required for Kappa'},
+                {id: 'prev', title: 'Previous Quest'},
+                {id: 'next', title: 'next'},
+            ]
+        });
+
         const selector = `.questtable.${name}-content`;
         
         const tableExists = await page.$(selector) !== null;
@@ -83,9 +84,7 @@ const csvWriter = createCsvWriter({
                                     next = data[2].innerText;
                                     
                                     return [prev, next];
-                                }
-                                
-                                
+                                }          
                             }
                         }
                     } 
@@ -102,9 +101,8 @@ const csvWriter = createCsvWriter({
             allQuests.push(questData); 
             await page.goBack();        
         }
+        await csvWriter.writeRecords(allQuests);
     }
-
-    await csvWriter.writeRecords(allQuests);
     console.log('CSV file has been written');
 
     await browser.close();

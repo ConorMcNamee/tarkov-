@@ -1,0 +1,2304 @@
+Quest Title,Type,Objectives,Rewards,Required for Kappa,Previous Quest,next
+Shooting Cans,Completion,"Locate the Utyos machine gun on Ground Zero
+Locate the AGS grenade launcher on Ground Zero
+Eliminate any 5 targets on Ground Zero","+1,600 EXP
+Prapor Rep +0.01
+13,000 Roubles
+1× Mosin 7.62x54R bolt-action rifle (Infantry)
+3× 7.62x54mm R FMJ ammo pack (20 pcs)",No,"Previous:
+-","Leads to:
+Debut"
+Debut,Elimination,"Eliminate 5 Scavs all over the Tarkov territory
+Obtain and hand over 2 MP-133 12ga shotguns","+1,700 EXP
+Prapor Rep +0.02
+Jaeger Rep +0.01
+15,000 Roubles
+1× PP-91 ""Kedr"" 9x18PM submachine gun
+60× 9x18mm PM BZhT gzh
+Unlocks purchase of Kalashnikov AKS-74UB 5.45x39 assault rifle at Prapor LL1",Yes,"Previous:
+Shooting Cans","Leads to:
+Search Mission
+Luxurious Life"
+Luxurious Life,PickUp,"Locate the liquor store on Ground Zero
+Locate and obtain the wine bottle in the store
+Hand over the wine bottle","+1,750 EXP
+Prapor Rep +0.01
+14,000 Roubles
+1× Molot Arms VPO-136 ""Vepr-KM"" 7.62x39 carbine
+5× 7.62x39mm FMJ ammo pack (20 pcs)
+3× AK 7.62x39 30-round magazine (issued '55 or later)",No,"Previous:
+Debut","Leads to:
+Background Check"
+Properties All Around,PickUp,"Locate the real estate fund on Streets of Tarkov
+Locate and obtain the Tarkov real estate transactions document
+Hand over the obtained information","+11,600 EXP
+Prapor Rep +0.02
+80,000 Roubles
+1× SR-2M ""Veresk"" 9x21 submachine gun
+3× SR-2M 9x21 30-round magazine
+4× 9x21mm PS gzh ammo pack (30 pcs)",No,"Previous:
+Glory to CPSU - Part 2","Leads to:
+-"
+Search Mission,Exploration,"Find Prapor's missing convoy on Woods
+Locate the temporary USEC camp
+Survive and extract from the location","+2,800 EXP
+Prapor Rep +0.02
+22,000 Roubles
+1× EYE MK.2 professional hand-held compass
+1× Woods plan map
+Unlocks purchase of NPP KlASS Kora-Kulon body armor (Digital Flora) at Prapor LL1",Yes,"Previous:
+Debut","Leads to:
+-"
+Background Check,PickUp,"Obtain the Bronze pocket watch on Customs
+(Optional) Obtain the key to the fuel tanker truck
+Hand over the Bronze pocket watch to Prapor","+1,800 EXP
+Prapor Rep +0.03
+15,000 Roubles
+1× TOZ Simonov SKS 7.62x39 carbine
+60× 7.62x39mm PS gzh",Yes,"Previous:
+Luxurious Life","Leads to:
+Shootout Picnic
+Delivery From the Past"
+Shootout Picnic,Elimination,Eliminate 15 Scavs on Woods,"+2,000 EXP
+Prapor Rep +0.03
+Jaeger Rep +0.01
+20,000 Roubles
+1× Kalashnikov AKS-74UN 5.45x39 assault rifle
+3× AK-74 5.45x39 6L20 30-round magazine
+90× 5.45x39mm PP gs
+Unlocks purchase of Lebedev PL-15 9x19 pistol at Prapor LL1
+Unlocks purchase of 6B5-16 Zh-86 Uley armored rig (Khaki) at Prapor LL2",Yes,"Previous:
+Background Check","Leads to:
+-"
+Delivery From the Past,PickUp,"Obtain the secure folder in the Tarcone Director's office at the Customs terminal warehouse
+Stash the package in the Factory break room (2nd floor near Gate 3)
+Survive and extract from Factory","+4,000 EXP
+Prapor Rep +0.03
+20,000 Roubles
+1× Saiga-12K ver.10 12ga semi-automatic shotgun
+4× SOK-12 12/76 sb.5 5-round magazine
+40× 12/70 7mm buckshot
+Unlocks purchase of 5.45x39mm FMJ at Prapor LL1",Yes,"Previous:
+Background Check","Leads to:
+BP Depot"
+BP Depot,Discovery,"Mark the first fuel tank with an MS2000 Marker on Customs
+Mark the second fuel tank with an MS2000 Marker on Customs
+Mark the third fuel tank with an MS2000 Marker on Customs
+Mark the fourth fuel tank with an MS2000 Marker on Customs
+Survive and extract from the location","+2,800 EXP
+Prapor Rep +0.03
+Jaeger Rep -0.01
+30,000 Roubles
+2× Expeditionary fuel tank
+Unlocks purchase of PP-9 ""Klin"" 9x18PMM submachine gun at Prapor LL1",Yes,"Previous:
+Delivery From the Past","Leads to:
+Bad Rep Evidence
+The Bunker - Part 1"
+The Bunker - Part 1,Completion,"Find the underground bunker
+Locate the control room in the underground bunker
+Survive and extract from the location","+5,700 EXP
+Prapor Rep +0.03
+20,000 Roubles
+1× SR-2M ""Veresk"" 9x21 submachine gun
+80x 9x21mm BT gzh
+3x SR-2M 9x21 20-round magazine
+Unlocks purchase of 9x21mm PS gzh at Prapor LL2",Yes,"Previous:
+BP Depot","Leads to:
+The Bunker - Part 2"
+The Bunker - Part 2,Completion,"Locate the hermetic door leading to the hospital (white bishop)
+Locate one of two hermetic doors leading to the academy building (black bishop)
+Locate one of two hermetic doors leading to barracks #1 (black pawn)
+Locate one of two hermetic doors leading to barracks #2 (white pawn)
+Locate the hermetic door leading to the building of the air control center (white king)
+Survive and extract from the location","+9,200 EXP
+Prapor Rep +0.03
+25,000 Roubles
+1× Kalashnikov AKS-74UB 5.45x39 assault rifle
+120× 5.45x39mm BS gs
+1× AK CAA RS47 handguard
+1× AK-74M CAA AKTS AK74 buffer tube",Yes,"Previous:
+The Bunker - Part 1","Leads to:
+No Place for Renegades"
+Bad Rep Evidence,PickUp,"Obtain Secure Folder 0031 in a bunkhouse on Customs
+(Optional) Gain access to the locked room on the third floor in the Factory office hallway
+(Optional) Obtain the Portable bunkhouse key
+Hand over the Secure Folder 0031 to Prapor
+Survive and extract from Customs","+4,100 EXP
+Prapor Rep +0.03
+35,000 Roubles
+1× PP-91-01 ""Kedr-B"" 9x18PM submachine gun
+3× PP-91 ""Kedr"" 9x18PM 30-round magazine
+120× 9x18mm PM PS gs PPO
+Unlocks purchase of BelOMO PSO-1M2-1 4x24 scope at Prapor LL2
+Unlocks purchase of SSSh-94 SFERA-S helmet at Prapor LL1",Yes,"Previous:
+BP Depot","Leads to:
+Ice Cream Cones"
+Ice Cream Cones,PickUp,"Find 3 AK-74 5.45x39 6L31 60-round magazine in raid
+(Optional) Find the key to the bunker in the TerraGroup employee's dorm room
+(Optional) Locate the correct bunker in Woods
+Hand over 3 AK-74 5.45x39 6L31 60-round magazine to Prapor","+5,200 EXP
+Prapor Rep +0.02
+17,000 Roubles
+1× RPK-16 5.45x39 light machine gun
+200× 5.45x39mm PP gs
+Unlocks barter for AK-74 5.45x39 6L31 60-round magazine at Prapor LL2",Yes,"Previous:
+Bad Rep Evidence","Leads to:
+Postman Pat - Part 1
+Shaking up the Teller"
+No Place for Renegades,Elimination,Eliminate 5 Raiders in the command bunker on Reserve,"+15,300 EXP
+Prapor Rep +0.03
+40,000 Roubles
+1× Kalashnikov AK-103 7.62x39 assault rifle
+3× AK-103 7.62x39 30-round magazine
+150× 7.62x39mm PS gzh",Yes,"Previous:
+The Bunker - Part 2","Leads to:
+Documents"
+Documents,PickUp,"Obtain Military documents №1 on Reserve
+Obtain Military documents №2 on Reserve
+Obtain Military documents №3 on Reserve
+Hand over the first documents to Prapor
+Hand over the second documents to Prapor
+Hand over the third documents to Prapor","+7,800 EXP
+Prapor Rep +0.04
+45,000 Roubles
+1× NSPU-M 3.5x dovetail night vision scope
+1× Zenit Klesch-2P flashlight with laser
+1× AKM PBS-1 7.62x39 sound suppressor",Yes,"Previous:
+No Place for Renegades","Leads to:
+-"
+Postman Pat - Part 1,PickUp,"Obtain the letter on the messenger's body on Factory
+Survive and extract from Factory
+Hand over the letter to Therapist","+5,900 EXP
+Prapor Rep +0.02
+40,000 Roubles
+1× 5.11 Tactical TacTec plate carrier (Ranger Green)
+1× 6B2 body armor (Flora)",Yes,"Previous:
+Ice Cream Cones","Leads to:
+Postman Pat - Part 2
+You've Got Mail"
+Shaking up the Teller,PickUp,"Obtain the valuable item in dorm room 203 on Customs
+(Optional) Gain access to dorm room 214
+Hand over the valuable item to Prapor","+5,900 EXP
+Prapor Rep +0.02
+75,000 Roubles
+1× Geiger-Muller counter
+Unlocks purchase of AKS-74U PBS-4 5.45x39 sound suppressor at Prapor LL3
+Unlocks purchase of Hexagon 12K 12ga sound suppressor at Skier LL2",Yes,"Previous:
+Ice Cream Cones","Leads to:
+The Punisher - Part 1
+Perfect Mediator
+Anesthesia"
+The Punisher - Part 1,Elimination,Eliminate 15 Scavs while using an AKM series weapon on Shoreline,"+10,200 EXP
+Prapor Rep +0.02
+40,000 Roubles
+1× 6B43 Zabralo-Sh body armor (Digital Flora)
+Unlocks purchase of SV-98 7.62x54R bolt-action sniper rifle at Prapor LL3
+Unlocks purchase of 7.62x39mm PS gzh at Prapor LL3",Yes,"Previous:
+Shaking up the Teller","Leads to:
+The Punisher - Part 2"
+The Punisher - Part 2,Elimination,"Eliminate 12 Scavs while using a suppressed weapon on Reserve
+Find 7 Lower half-masks in raid
+Hand over the 7 half-masks","+13,100 EXP
+Prapor Rep +0.03
+50,000 Roubles
+1× Kalashnikov AK-104 7.62x39 assault rifle
+2× Military cable",Yes,"Previous:
+The Punisher - Part 1","Leads to:
+The Punisher - Part 3
+Easy Job - Part 1"
+The Punisher - Part 3,Elimination,Eliminate 25 Scavs while using an AKS-74U series assault rifle on Customs,"+11,700 EXP
+Prapor Rep +0.04
+Skier Rep +0.02
+2,500 Dollars
+1× Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle (Urbana variant)
+Unlocks craft for 5.45x39mm PP gs at Workbench level 2",Yes,"Previous:
+The Punisher - Part 2","Leads to:
+The Punisher - Part 4"
+The Punisher - Part 4,Elimination,"Eliminate 10 Scavs while using a 12ga shotgun on Lighthouse
+Eliminate 10 PMC operatives while wearing a balaclava (any type) and Scav Vest on Lighthouse
+Find 5 Bars A-2607 95Kh18 knives in raid
+Hand over the 5 Bars A-2607 95Kh18 knives","+18,000 EXP
+Prapor Rep +0.03
+100,000 Roubles
+1× Colt M4A1 5.56x45 assault rifle (variant SOPMOD II)",Yes,"Previous:
+The Punisher - Part 3","Leads to:
+The Punisher - Part 5
+Kings of the Rooftops"
+The Punisher - Part 5,PickUp,"Find 1 AK-74N assault rifle in raid
+Hand over the AK-74N
+Find 1 Colt M4A1 assault rifle in raid
+Hand over the M4A1
+Find 2 Makarov PM pistols in raid
+Hand over the 2 pistols
+Eliminate 10 PMC operatives while wearing a PACA body armor and 6B47 helmet","+18,200 EXP
+Prapor Rep +0.03
+5,000 Dollars
+1× Pistol case
+1× Documents case
+120× 7.62x39mm BP gzh",Yes,"Previous:
+The Punisher - Part 4","Leads to:
+The Punisher - Part 6
+Our Own Land"
+The Punisher - Part 6,Elimination,"Eliminate 15 PMCs while using SVD rifle (excluding Factory location)
+Find 7 BEAR PMC dogtags
+Hand over the BEAR dogtags
+Find 7 USEC PMC dogtags
+Hand over the USEC dogtags","+19,400 EXP
+Prapor Rep +0.04
+Therapist Rep +0.05
+Skier Rep +0.01
+250,000 Roubles
+1× Secure container Epsilon
+Unlocks purchase of 7.62x54mm R PS gzh at Prapor LL3",Yes,"Previous:
+The Punisher - Part 5","Leads to:
+Capturing Outposts
+Intimidator
+Escort
+The Choice
+Gendarmerie - Mall Cop"
+Anesthesia,Discovery,"Mark the first trading post with an MS2000 Marker on Shoreline
+Mark the second trading post with an MS2000 Marker on Shoreline
+Mark the third trading post with an MS2000 Marker on Shoreline
+Survive and extract from the location","+18,100 EXP
+Prapor Rep +0.04
+50,000 Roubles
+1× AS VAL 9x39 special assault rifle
+100× 9x39mm SPP gs
+100× 9x39mm SP-6 gs",Yes,"Previous:
+Shaking up the Teller","Leads to:
+Rigged Game
+Samples
+Chemistry Closet"
+Grenadier,Elimination,Eliminate 8 PMCs with grenades,"+18,000 EXP
+Prapor Rep +0.02
+75,000 Roubles
+100× 12.7x55mm PS12B
+5× F-1 hand grenade
+5× VOG-17 Khattabka improvised hand grenade
+5× VOG-25 Khattabka improvised hand grenade
+2× RGN hand grenade
+Unlocks craft for VOG-17 Khattabka improvised hand grenade at Workbench level 2",Yes,"Previous:
+-","Leads to:
+Test Drive - Part 1"
+Test Drive - Part 1,Elimination,Eliminate 5 PMC operatives from over 60 meters away while using an M1A rifle with Hybrid 46 suppressor and Schmidt & Bender PM II 1-8x24 scope,"+18,200 EXP
+Prapor Rep +0.02
+1× VSS Vintorez 9x39 special sniper rifle
+2× 9x39 SR3M.130 30-round magazine
+120× 9x39mm PAB-9 gs
+Unlocks craft for 9x39mm PAB-9 gs at Workbench level 3",Yes,"Previous:
+Grenadier","Leads to:
+Test Drive - Part 2 (+21hr)"
+Test Drive - Part 2,Elimination,"Eliminate 20 PMC operatives while using an SR-2M ""Veresk"" with a suppressor and KP-SR2 reflex sight on Streets of Tarkov","+28,000 EXP
+Prapor Rep +0.02
+300,000 Roubles
+1× ASh-12 12.7x55 assault rifle
+3× ASh-12 12.7x55 20-round magazine
+60× 12.7x55mm PS12B
+3× Golden neck chain",No,"Previous:
+Test Drive - Part 1 (+21hr)","Leads to:
+Test Drive - Part 3"
+Test Drive - Part 3,Elimination,Eliminate 20 PMC operatives while using an AK-12 with a suppressor and Valday PS-320 1/6x scope on Lighthouse,"+35,300 EXP
+Prapor Rep +0.02
+400,000 Roubles
+1× RPK-16 5.45x39 light machine gun
+4× AK-74 5.45x39 6L31 60-round magazine
+8× 5.45x39mm 7N40 ammo pack (30 pcs)",No,"Previous:
+Test Drive - Part 2","Leads to:
+Test Drive - Part 4"
+Test Drive - Part 4,Elimination,Eliminate 20 PMC operatives while using an RPDN with a 1P78-1 scope on Shoreline,"+40,000 EXP
+Prapor Rep +0.02
+460,000 Roubles
+1× Tokarev AVT-40 7.62x54R automatic rifle
+3× 7.62x54mm R SNB gzh ammo pack (20 pcs)
+2× AVT-40 7.62x54R 15-round magazine",No,"Previous:
+Test Drive - Part 3","Leads to:
+-"
+Perfect Mediator,Standing,"Reach level 4 loyalty with Ragman
+Reach level 4 loyalty with Skier
+Reach level 4 loyalty with Mechanic
+Reach level 4 loyalty with Peacekeeper
+Reach level 4 loyalty with Prapor
+Reach level 4 loyalty with Therapist","+20,900 EXP
+Prapor Rep +0.02
+55,000 Roubles
+1× T H I C C Weapon case",Yes,"Previous:
+Shaking up the Teller","Leads to:
+-"
+Polikhim Hobo,Elimination,Eliminate 25 Scavs on Customs,"+5,900 EXP
+Prapor Rep +0.02
+Jaeger Rep +0.01
+50,000 Roubles
+3× F-1 hand grenade
+3× RGD-5 hand grenade
+1× ""Zarya"" stun grenade",Yes,"Previous:
+Chemical - Part 1","Leads to:
+Regulated Materials"
+Regulated Materials,PickUp,"Find 1 6-STEN-140-M military battery in raid
+Hand over 1 6-STEN-140-M military battery to Prapor
+Find 5 OFZ 30x160mm shells in raid
+Hand over 5 OFZ 30x160mm shells to Prapor","+14,800 EXP
+Prapor Rep +0.02
+150,000 Roubles
+100× 12.7x55mm PS12B
+Unlocks barter for ASh-12 12.7x55 assault rifle at Prapor LL4",Yes,"Previous:
+Polikhim Hobo","Leads to:
+-"
+Big Customer,Completion,"Find the transport with the chemicals
+Mark the chemical transport vehicle with an MS2000 Marker
+Survive and extract from Customs","+8,100 EXP
+Prapor Rep +0.03
+200,000 Roubles
+2× Ammunition case
+1× 6B2 body armor (Flora)","No, but a subsequent quest Yes","Previous:
+Chemical - Part 3","Leads to:
+Trust Regain
+Loyalty Buyout
+Safe Corridor"
+No Offence,PickUp,"Obtain 10 M67 grenades
+Hand over 10 M67 grenades to Prapor",Prapor Rep +0.25,No,"Previous:
+Chemical - Part 4
+or
+Out of Curiosity","Leads to:
+-"
+Capturing Outposts,Elimination,"Eliminate 8 PMC operatives at the Scav base on Customs
+Eliminate 8 PMC operatives at the Scav base on Woods
+Eliminate 8 PMC operatives at the Health Resort on Shoreline","+69,999 EXP
+1× Armband (RFARMY)
+1× Armband (USEC)
+1× Rys-T bulletproof helmet (Black)
+2× Rys-T face shield
+1× 6B43 Zabralo-Sh body armor (Digital Flora)
+Unlocks purchase of 9x39mm SP-6 gs at Prapor LL4",No,"Previous:
+The Punisher - Part 6","Leads to:
+-"
+Intimidator,Elimination,Eliminate 40 Scavs with headshots,"+84,000 EXP
++3 Aim Drills skill level
++3 Assault Rifles skill level
+Unlocks craft for 7.62x39mm BP gzh at Workbench level 3",Yes,"Previous:
+The Punisher - Part 6","Leads to:
+-"
+Escort,Elimination,"You must not die or leave the raid while the task is active (Status: KIA, Left the Action, MIA, Ran Through)
+Eliminate 4 PMCs on daytime Factory
+Eliminate 4 PMCs on Customs
+Eliminate 4 PMCs on Shoreline
+Eliminate 4 PMCs on Reserve
+Eliminate 4 PMCs on Woods
+Eliminate 4 PMCs on Interchange
+Eliminate 4 PMCs in The Lab","+177,000 EXP
++5 Melee skill levels
++5 Pistols skill level
++5 Strength skill level
+1× 6B43 Zabralo-Sh body armor (Digital Flora)
+1× Rys-T bulletproof helmet (Black)
+1× Rys-T face shield
+Unlocks craft for Rys-T bulletproof helmet (Black) at Lavatory level 3",No,"Previous:
+The Punisher - Part 6","Leads to:
+-"
+Easy Job - Part 1,Discovery,"Locate the helicopter at the water treatment plant on Lighthouse
+Mark the helicopter with an MS2000 Marker
+Survive and extract from the location","+15,000 EXP
+Prapor Rep +0.02
+120,000 Roubles
+1x 6Sh118 raid backpack (Digital Flora)
+1x Kalashnikov AK-12 5.45x39 assault rifle",Yes,"Previous:
+The Punisher - Part 2","Leads to:
+Easy Job - Part 2
+Reconnaissance"
+Easy Job - Part 2,Elimination,Eliminate any 20 targets around the helicopter area at the water treatment plant on Lighthouse,"+18,000 EXP
+Prapor Rep +0.02
+155,000 Roubles
+Unlocks purchase of AK 7.62x39 Molot Arms 75-round drum magazine at Prapor LL3",Yes,"Previous:
+Easy Job - Part 1","Leads to:
+-"
+Our Own Land,Elimination,"Eliminate 20 USEC PMC operatives all over the Lighthouse territory
+Hand over 20 found in raid USEC PMC dogtags","+22,000 EXP
+Prapor Rep +0.02
+300,000 Roubles
+Unlocks purchase of 23x75mm Zvezda flashbang round at Prapor LL3
+3× TOZ KS-23M 23x75mm pump-action shotgun",No,"Previous:
+The Punisher - Part 5","Leads to:
+-"
+Reconnaissance,Exploration,"Recon the roof of the first office building on Lighthouse
+Recon the roof of the second office building on Lighthouse
+Recon the roof of the third office building on Lighthouse
+Survive and extract from the location","18,000 EXP
+Prapor Rep +0.03
+155,000 Roubles
+1× NPP KlASS Korund-VM body armor (Black)
+1× NPP KlASS Condor glasses
+Unlocks barter for Korund-VM ballistic plates (Front) at Prapor LL3",Yes,"Previous:
+Easy Job - Part 1","Leads to:
+-"
+You've Got Mail,Completion,"Obtain the registered mail on Streets of Tarkov
+Hand over the letter","+4,800 EXP
+Prapor Rep +0.02
+28,000 Roubles
+1× 6B47 Ratnik-BSh helmet (Olive Drab)
+1× 5.45x39mm BP gs ammo pack (30 pcs)
+Unlocks purchase of 9x18mm PM SP7 gzh at Prapor LL2",No,"Previous:
+Postman Pat - Part 1","Leads to:
+Glory to CPSU - Part 1"
+Glory to CPSU - Part 1,Completion,"Locate the apartment of Prapor's friend on Streets of Tarkov
+Survive and extract from the location","+7,300 EXP
+Prapor Rep +0.02
+42,000 Roubles
+2× Bottle of Tarkovskaya vodka",No,"Previous:
+You've Got Mail","Leads to:
+Glory to CPSU - Part 2"
+Glory to CPSU - Part 2,PickUp,"Locate the place of work of Prapor's friend on Streets of Tarkov
+Obtain any information on the fate of Prapor's friend
+Survive and extract from the location
+Hand over the found data","+10,100 EXP
+Prapor Rep +0.01
+50,000 Roubles
+1× Tokarev SVT-40 7.62x54R rifle
+2× SVT-40 7.62x54R 10-round magazine
+30× 7.62x54mm R PS gzh
+Unlocks barter for Tokarev AVT-40 7.62x54R automatic rifle at Prapor LL3",No,"Previous:
+Glory to CPSU - Part 1","Leads to:
+Properties All Around"
+Best Job in the World,Elimination,Eliminate any 30 hostiles from over 100 meters away while using AK-74 series weapons,"+15,400 EXP
+Prapor Rep +0.03
+Unlocks barter for GP-25 ""Kostyor"" 40mm underbarrel grenade launcher at Prapor LL3
+Unlocks purchase of 40mm VOG-25 grenade at Prapor LL3",No,"Previous:
+Kings of the Rooftops
+The Punisher - Part 6","Leads to:
+-"
+Kings of the Rooftops,Elimination,"Eliminate 10 snipers on the rooftops on Streets of Tarkov
+Survive and extract from the location","+14,700 EXP
+Prapor Rep +0.02
+77,000 Roubles",No,"Previous:
+The Punisher - Part 4","Leads to:
+Best Job in the World"
+Green Corridor,Exploration,"Locate the cargo convoy on Streets of Tarkov
+Determine the ambush spot
+Survive and extract from the location","+10,400 EXP
+Prapor Rep +0.02
+62,000 Roubles
+1× SR-2M ""Veresk"" 9x21 submachine gun
+3× SR-2M 9x21 20-round magazine
+80× 9x21mm P gzh",No,"Previous:
+Spa Tour - Part 7","Leads to:
+-"
+Gendarmerie - Mall Cop,Elimination,Eliminate any 15 targets at the Stylobate building while using Pistols on Streets of Tarkov,"+21,500 EXP
+Prapor Rep +0.02
+120,000 Roubles
+1× SR-2M ""Veresk"" 9x21 submachine gun
+4× SR-2M 9x21 30-round magazine
+140× 9x21mm PS gzh
+Unlocks barter for Serdyukov SR-1MP Gyurza 9x21 pistol (variant Tactical 2) at Prapor LL4",No,"Previous:
+The Punisher - Part 6","Leads to:
+Gendarmerie - Tickets, Please"
+"Gendarmerie - Tickets, Please",Elimination,Eliminate any 25 targets at the Rodina cinema while using SMGs on Streets of Tarkov,"+22,600 EXP
+Prapor Rep +0.03
+150,000 Roubles
+2× Kalashnikov AK-103 7.62x39 assault rifle
+4× AK-103 7.62x39 30-round magazine
+180× 7.62x39mm PP gzh
+Unlocks barter for SR-2M ""Veresk"" 9x21 submachine gun (variant FSB) at Prapor LL4",No,"Previous:
+Gendarmerie - Mall Cop","Leads to:
+Gendarmerie - District Patrol"
+Gendarmerie - District Patrol,Elimination,Eliminate any 30 targets at the Cardinal apartment complex while using Assault rifles or Assault carbines on Streets of Tarkov,"+25,000 EXP
+Prapor Rep +0.04
+185,000 Roubles
+16× Bottle of Tarkovskaya vodka
+1× BNTI Zhuk body armor (Digital Flora)
+Unlocks barter for Kalashnikov AK-12 5.45x39 assault rifle at Prapor LL4
+Unlocks craft for 5.45x39mm BP gs at Workbench level 3",No,"Previous:
+Gendarmerie - Tickets, Please","Leads to:
+-"
+First in Line,Exploration,"Locate the Emercom station on Ground Zero
+Hand over any 3 medicine items","+1,200 EXP
+Therapist Rep +0.01
+6,400 Roubles
+1× Factory plan map
+2× Bottle of water (0.6L)",No,"Previous:
+-","Leads to:
+Shortage"
+Shortage,PickUp,"Find 3 Salewa first aid kits in raid
+Hand over 3 Salewa first aid kits to Therapist","+2,000 EXP
+Therapist Rep +0.03
+15,000 Roubles
+2× Car first aid kit
+4× Analgin painkillers
+4× Aluminum splint",Yes,"Previous:
+First in Line","Leads to:
+Sanitary Standards - Part 1
+Operation Aquarius - Part 1"
+Operation Aquarius - Part 1,PickUp,"Find the water hidden inside of the dorms on Customs
+Survive and extract from the location","+3,300 EXP
+Therapist Rep +0.03
+Skier Rep -0.02
+14,000 Roubles
+5× Bottle of water (0.6L)
+1× Water filter",Yes,"Previous:
+Shortage","Leads to:
+Operation Aquarius - Part 2"
+Operation Aquarius - Part 2,Elimination,Eliminate 15 Scavs on Customs,"+3,400 EXP
+Therapist Rep +0.03
+Jaeger Rep +0.01
+20,000 Roubles
+3× Esmarch tourniquet
+1× Aluminum splint
+Unlocks purchase of Army bandage at Therapist LL2",Yes,"Previous:
+Operation Aquarius - Part 1","Leads to:
+-"
+Sanitary Standards - Part 1,PickUp,"Find 1 Gas analyzer in raid
+(Optional) Gain access to the locked pumping station on Factory
+Hand over the 1 Gas analyzer to Therapist","+2,200 EXP
+Therapist Rep +0.03
+14,000 Roubles
+2× Car first aid kit
+Unlocks purchase of Car first aid kit at Therapist LL1",Yes,"Previous:
+Shortage","Leads to:
+Sanitary Standards - Part 2"
+Sanitary Standards - Part 2,Completion,"Find 2 Gas analyzers in raid
+Hand over 2 Gas analyzers to Therapist","+4,500 EXP
+Therapist Rep +0.03
+30,000 Roubles
+1× Propital regenerative stimulant injector",Yes,"Previous:
+Sanitary Standards - Part 1","Leads to:
+Painkiller"
+Painkiller,PickUp,"Find 4 Morphine injectors in raid
+Hand over 4 Morphine injectors to Therapist","+4,500 EXP
+Therapist Rep +0.03
+17,000 Roubles
+5× Disposable syringe
+1× Silicone tube
+2× Analgin painkillers
+2× Pile of meds",Yes,"Previous:
+Sanitary Standards - Part 2","Leads to:
+Pharmacist"
+Pharmacist,PickUp,"Obtain the case containing the device on Customs
+(Optional) Find the paramedic's car on Customs
+(Optional) Get into two-story dorm room 114 on Customs
+Hand over the case to Therapist","+5,700 EXP
+Therapist Rep +0.04
+25,000 Roubles
+1× AFAK tactical individual first aid kit
+3× Pile of meds
+Unlocks barter for 6B47 Ratnik-BSh helmet (Digital Flora cover) at Ragman LL2",Yes,"Previous:
+Painkiller","Leads to:
+General Wares
+Health Care Privacy - Part 1
+Car Repair
+Disease History
+Population Census
+Supply Plans
+or
+Kind of Sabotage"
+Car Repair,PickUp,"Find 4 Car batteries in raid
+Find 8 Spark plugs in raid
+Hand over 4 Car batteries to Therapist
+Hand over 8 Spark plugs to Therapist","+6,900 EXP
+Therapist Rep +0.04
+1,500 Dollars
+1× Grizzly medical kit
+1× eTG-change regenerative stimulant injector
+1× Adrenaline injector",Yes,"Previous:
+Pharmacist","Leads to:
+-"
+Disease History,PickUp,"Obtain Medical record #1 on Reserve
+Obtain Medical record #2 on Reserve
+Hand over the first journal to Therapist
+Hand over the second journal to Therapist","+7,200 EXP
+Therapist Rep +0.03
+30,000 Roubles
+1× Grizzly medical kit
+1× Ibuprofen painkillers
+5× CALOK-B hemostatic applicator",Yes,"Previous:
+Pharmacist","Leads to:
+Seaside Vacation"
+Supply Plans,PickUp,"Obtain the Secure Folder 0052 in the sawmill on Woods
+Hand over Secure Folder 0052 to Therapist","+7,500 EXP
+Therapist Rep +0.04
+75,000 Roubles
+1× CMS surgical kit","No, but a subsequent quest Yes","Previous:
+Pharmacist","Leads to:
+Dangerous Road
+The Huntsman Path - Woods Keeper"
+Health Care Privacy - Part 1,Discovery,"Find and mark the first ambulance with an MS2000 Marker on Shoreline
+Find and mark the second ambulance with an MS2000 Marker on Shoreline
+Find and mark the third ambulance with an MS2000 Marker on Shoreline","+4,800 EXP
+Therapist Rep +0.03
+22,000 Roubles
+2× IFAK individual first aid kit
+Unlocks purchase of IFAK individual first aid kit at Therapist LL3",Yes,"Previous:
+Pharmacist","Leads to:
+Health Care Privacy - Part 2"
+Health Care Privacy - Part 2,Discovery,"Search the room in the Health Resort for any documents about TerraGroup's research
+Hand over the retrieved information to Therapist
+Survive and extract from the location","+5,900 EXP
+Therapist Rep +0.04
+24,000 Roubles
+4× Salewa first aid kit",Yes,"Previous:
+Health Care Privacy - Part 1","Leads to:
+Health Care Privacy - Part 3
+Lost Contact"
+Health Care Privacy - Part 3,Discovery,"Locate the van of the Health Resort medical services director on Woods
+Take a sample of the blood
+Hand over the blood sample
+Survive and extract from the location","+5,900 EXP
+Therapist Rep +0.04
+26,000 Roubles
+2× Morphine injector
+2× Adrenaline injector
+Unlocks purchase of Morphine injector at Therapist LL4",Yes,"Previous:
+Health Care Privacy - Part 2","Leads to:
+Health Care Privacy - Part 4"
+An Apple a Day Keeps the Doctor Away,Completion,"Hand over 400,000 RUB to Therapist",+2 Health skill levels,No,"Previous:
+Health Care Privacy - Part 4","Leads to:
+-"
+Health Care Privacy - Part 4,Skill,Reach the required Health skill level of 4,"+6,000 EXP
+Therapist Rep +0.04
+29,000 Roubles
+2× Grizzly medical kit
+2× Bottle of saline solution",Yes,"Previous:
+Health Care Privacy - Part 3","Leads to:
+Health Care Privacy - Part 5
+Private Clinic
+Athlete
+An Apple a Day Keeps the Doctor Away"
+Athlete,Skill,Reach the required Health skill level of 10,"+21,900 EXP
+Therapist Rep +0.04
+110,000 Roubles
+1× Dundukk sport sunglasses
+3× Zagustin hemostatic drug injector
+3× Adrenaline injector
+Unlocks purchase of Adrenaline injector at Therapist LL4",Yes,"Previous:
+Health Care Privacy - Part 4","Leads to:
+-"
+Private Clinic,Completion,"Find 1 Ophthalmoscope in raid
+Find 1 LEDX Skin Transilluminator in raid
+Hand over 1 Ophthalmoscope to Therapist
+Hand over 1 LEDX Skin Transilluminator to Therapist","+30,600 EXP
+Therapist Rep +0.05
+130,000 Roubles
+1× T H I C C item case
+1× Health Resort east wing room 306 key",Yes,"Previous:
+Health Care Privacy - Part 4","Leads to:
+Decontamination Service"
+Health Care Privacy - Part 5,Multi,"Locate the drop spot on Factory at night
+Obtain 3 packs of Gunpowder ""Kite"" and stash them in the designated spot","+7,300 EXP
+Therapist Rep +0.04
+35,000 Roubles
+1× Medicine case",Yes,"Previous:
+Health Care Privacy - Part 4","Leads to:
+Decontamination Service"
+Decontamination Service,Elimination,Eliminate 40 Scavs on Interchange in close range (less than 60 meters) while wearing specific gear,"+30,500 EXP
+Therapist Rep +0.05
+Jaeger Rep +0.01
+300,000 Roubles
+3× Morphine injector
+3× IFAK individual first aid kit
+3× GP-7 gas mask",Yes,"Previous:
+Health Care Privacy - Part 5
+Private Clinic","Leads to:
+-"
+General Wares,Completion,"Find 15 Small cans of beef stew in raid
+Hand over 15 Small cans of beef stew to Therapist","+4,800 EXP
+Therapist Rep +0.03
+30,000 Roubles
+4× Can of pacific saury
+2× Iskra ration pack
+2× Can of Majaica coffee beans",Yes,"Previous:
+Pharmacist","Leads to:
+Colleagues - Part 1"
+Colleagues - Part 1,Exploration,"Locate the group that was sent to the Health Resort on Shoreline
+Locate the group that was sent to the pier on Shoreline
+Locate the group that was sent to the cottages on Shoreline
+Survive and extract from the location","+12,300 EXP
+Therapist Rep +0.04
+45,000 Roubles
+2× SJ1 TGLabs combat stimulant injector
+2× SJ6 TGLabs combat stimulant injector",Yes,"Previous:
+General Wares","Leads to:
+Colleagues - Part 2
+Chemistry Closet"
+Colleagues - Part 2,PickUp,"Locate and obtain Sanitar's surgery kit marked with a blue symbol on Shoreline
+Hand over Sanitar's surgery kit to Therapist
+Locate and obtain Sanitar's ophthalmoscope on Shoreline
+Hand over Sanitar's ophthalmoscope to Therapist","+12,400 EXP
+Therapist Rep +0.04
+60,000 Roubles
+1× Surv12 field surgical kit
+1× P22 (Product 22) stimulant injector",Yes,"Previous:
+Colleagues - Part 1","Leads to:
+The Huntsman Path - Sadist
+or
+Colleagues - Part 3"
+Colleagues - Part 3,PickUp,"Do not kill Sanitar
+Find 10 TerraGroup Labs access keycards in raid
+Hand over the keycards
+Find AHF1-M stimulant injector in raid
+Hand over the injector
+Find 3-(b-TG) stimulant injector in raid
+Hand over the injector","+15,800 EXP
+Therapist Rep +0.04
+Fence Rep +0.25
+150,000 Roubles
+1× TerraGroup Labs keycard (Black)
+1× Medicine case
+3× L1 (Norepinephrine) injector
+3× Meldonin injector
+5× ""Obdolbos 2"" cocktail injector
+4× Grizzly medical kit","No, but a subsequent quest Yes","Previous:
+Colleagues - Part 2
+Rigged Game
+Chemistry Closet","Leads to:
+TerraGroup Employee
+Swift One"
+Postman Pat - Part 2,PickUp,Hand over the letter from Prapor's messenger,"+3,500 EXP
+Therapist Rep +0.02
+5,000 Roubles
+Unlocks purchase of Salewa first aid kit at Therapist LL2",Yes,"Previous:
+Postman Pat - Part 1","Leads to:
+-"
+Out of Curiosity,PickUp,"Find the transport with the chemicals on Customs
+Mark the vehicle with an MS2000 Marker
+Survive and extract from Customs","+7,700 EXP
+Therapist Rep +0.04
+170,000 Roubles
+1× Injector case","No, but a subsequent quest Yes","Previous:
+Chemical - Part 3","Leads to:
+Loyalty Buyout
+No Offence
+Safe Corridor"
+Trust Regain,PickUp,"Obtain 1 Dorm room 303 key
+Obtain 1 ZB-014 key
+Obtain 1 Military checkpoint key
+Obtain 1 Gas station storage room key
+Hand over 1 Dorm room 303 key to Therapist
+Hand over 1 ZB-014 key to Therapist
+Hand over 1 Customs military checkpoint key to Therapist
+Hand over 1 Gas station storage room key to Therapist",Therapist Rep +0.25,No,"Previous:
+Chemical - Part 4
+or
+Big Customer","Leads to:
+-"
+Crisis,PickUp,"Find 3 Portable defibrillators in raid
+Find 3 Ophthalmoscopes in raid
+Find 2 LEDX Skin Transilluminators in raid
+Find 20 Piles of meds in raid
+Find 10 Bottles of OLOLO Multivitamins in raid
+Hand over the 3 ophthalmoscopes
+Hand over the 3 defibrillators
+Hand over the 2 LEDX
+Hand over the 20 Piles of meds
+Hand over the 10 multivitamins","+97,000 EXP
+1× Medicine case
++4 Immunity skill level
++4 Vitality skill level
++4 Surgery skill level
+Unlocks craft for ETG-change regenerative stimulant injector at Medstation level 2
+Unlocks craft for M.U.L.E. stimulant injector at Medstation level 2",Yes,,
+Seaside Vacation,PickUp,"Find the informant's briefcase on Lighthouse
+Hand over the found package","8,000 EXP
+Therapist Rep +0.02
+50,000 Roubles
+Unlocks purchase of Aluminum splint at Therapist LL3",Yes,"Previous:
+Disease History","Leads to:
+-"
+Lost Contact,Discovery,"Find the lost group in the chalet area on Lighthouse
+Survive and extract from the location","+7,000 EXP
+Therapist Rep +0.02
+40,000 Roubles
+Unlocks barter for Grizzly medical kit at Therapist LL2",Yes,"Previous:
+Health Care Privacy - Part 2","Leads to:
+Drug Trafficking"
+Population Census,PickUp,"Obtain the journal containing resident details on Streets of Tarkov
+Hand over the journal","+6,900 EXP
+Therapist Rep +0.02
+35,000 Roubles
+2× Salewa first aid kit
+2× Medical tools",No,"Previous:
+Pharmacist","Leads to:
+Urban Medicine
+Pets Won't Need It - Part 1"
+Dangerous Road,Exploration,Survive and extract from Streets of Tarkov through Primorsky Ave Taxi V-Ex,"+7,800 EXP
+Therapist Rep +0.01
+45,000 Roubles
+2× Aluminum splint
+2× CALOK-B hemostatic applicator",No,"Previous:
+Kind of Sabotage
+or
+Supply Plans","Leads to:
+-"
+Urban Medicine,PickUp,"Locate the chemical laboratory on Streets of Tarkov
+Obtain the container with drug samples
+Hand over the container","+10,200 EXP
+Therapist Rep +0.02
+51,000 Roubles
+2× Adrenaline injector
+1× Zagustin hemostatic drug injector",No,"Previous:
+Population Census","Leads to:
+The Huntsman Path - Big Game
+Ambulances Again"
+Drug Trafficking,Completion,"Locate the hidden drug lab on Lighthouse
+Stash a WI-FI Camera in the drug lab","+7,500 EXP
+Therapist Rep +0.03
+45,000 Roubles
+1× Propital regenerative stimulant injector
+1× ETG-change regenerative stimulant injector
+1× Zagustin hemostatic drug injector",Yes,"Previous:
+Lost Contact","Leads to:
+-"
+Pets Won't Need It - Part 1,Exploration,"Locate and scout the vet clinic on Streets of Tarkov
+Locate and scout the x-ray technician's room on Streets of Tarkov
+Survive and extract from the location","+8,100 EXP
+Therapist Rep +0.01
+43,000 Roubles
+4× Adrenaline injector
+2× Medical bloodset
+2× Bottle of saline solution",No,"Previous:
+Population Census","Leads to:
+Pets Won't Need It - Part 2"
+Pets Won't Need It - Part 2,Exploration,"Locate the first pharmacy on Primorsky Ave on Streets of Tarkov
+Locate the second pharmacy on Primorsky Ave on Streets of Tarkov
+Locate the third pharmacy at Cardinal apartment complex on Streets of Tarkov
+Survive and extract from the location","+9,000 EXP
+Therapist Rep +0.02
+55,000 Roubles
+4× Disposable syringe
+4× Pile of meds
+2× Morphine injector
+2× L1 (Norepinephrine) injector",No,"Previous:
+Pets Won't Need It - Part 1","Leads to:
+-"
+Ambulances Again,Pickup,"Locate and obtain the ambulance paramedic's smartphone on Streets of Tarkov
+Extract from Streets of Tarkov through Primorsky Ave Taxi V-Ex
+Hand over the smartphone","+12,000 EXP
+Therapist Rep +0.01
+100,000 Roubles
+2× Grizzly medical kit
+2× Surv12 field surgical kit
+Unlocks barter for Propital regenerative stimulant injector at Therapist LL2",No,"Previous:
+Cease Fire!
+Urban Medicine","Leads to:
+-"
+Burning Rubber,Completion,Use the paid vehicle extraction on Ground Zero,"+1,900 EXP
+Skier Rep +0.01
+12,000 Roubles
+1× OPSMEN Earmor M32 headset",No,"Previous:
+-","Leads to:
+Supplier"
+Supplier,PickUp,"Hand over 1 found in raid Module-3M armor to Skier
+Hand over 1 found in raid TOZ-106 shotgun to Skier","+3,300 EXP
+Skier Rep +0.05
+60,000 Roubles
+1× Saiga-9 9x19 carbine
+Unlocks purchase of Saiga-9 9x19 carbine at Skier LL1
+Unlocks purchase of 7.62x54mm R SP BT at Skier LL1",Yes,"Previous:
+Burning Rubber","Leads to:
+The Extortionist
+Stirrup
+Friend From the West - Part 1"
+The Extortionist,PickUp,"Obtain the hidden valuable cargo on Customs
+(Optional) Find the messenger's body
+(Optional) Find the place where the messenger hid the cargo
+Hand over the valuable cargo to Skier","+3,200 EXP
+Skier Rep +0.04
+500 Dollars
+1× Molot Arms VPO-209 .366 TKM carbine
+3× AK 7.62x39 30-round magazine (issued '55 or later)
+120× .366 TKM EKO
+1x BNTI Zhuk body armor (Press)
+Unlocks purchase of Remington Model 870 12ga pump-action shotgun at Skier LL1",Yes,"Previous:
+Supplier","Leads to:
+What’s on the Flash Drive?"
+Stirrup,Elimination,Eliminate 3 PMCs while using pistols,"+5,300 EXP
+Skier Rep +0.05
+Prapor Rep -0.05
+Therapist Rep -0.02
+70,000 Roubles
+1× Camelbak Tri-Zip assault backpack (Foliage)
+Unlocks purchase of Chiappa Rhino 50DS .357 revolver (variant Tactical) at Skier LL2",Yes,"Previous:
+Supplier","Leads to:
+-"
+What’s on the Flash Drive?,PickUp,"Find 2 Secure flash drives in raid
+Hand over 2 Secure flash drives to Skier","+4,500 EXP
+Skier Rep +0.04
+30,000 Roubles
+1× Molot Arms Simonov OP-SKS 7.62x39 carbine (variant UAS)
+2× SKS 7.62x39 TAPCO 6610 20-round magazine
+1× SKS Hexagon 7.62x39 sound suppressor",Yes,"Previous:
+The Extortionist","Leads to:
+Golden Swag
+Shady Business"
+Golden Swag,Completion,"Find the Golden Zibbo lighter
+Stash the Golden Zibbo lighter in the bunkhouse in the trailer parking lot on Customs","+4,500 EXP
+Skier Rep +0.04
+17,000 Roubles
+1× Soyuz-TM STM-9 Gen.2 9x19 carbine
+2× Glock 9x19 ""Big Stick"" 33-round magazine 
+120× 9x19mm Green Tracer
+Unlocks purchase of VOMZ Pilad P1x42 Weaver reflex sight at Skier LL2",Yes,"Previous:
+What’s on the Flash Drive?","Leads to:
+Chemical - Part 1"
+Chemical - Part 1,PickUp,"Obtain information about the Deputy Chief's past life on Customs
+(Optional) Locate the sleeping place of the former Deputy Chief of Security on Customs
+Hand over the information to Skier
+Obtain items that can help the investigation
+Hand over the items to Skier","+4,800 EXP
+Skier Rep +0.04
+15,000 Roubles
+1× MSA ACH TC-2002 MICH Series helmet (Olive Drab)",Yes,"Previous:
+Golden Swag","Leads to:
+Chemical - Part 2
+Polikhim Hobo"
+Chemical - Part 2,PickUp,"Find any evidence on Customs that could help with the investigation
+Hand over the evidence to Skier
+Find any information on Customs that could help with the investigation
+Hand over the info to Skier","+4,800 EXP
+Skier Rep +0.04
+15,000 Roubles
+3× F-1 hand grenade
+2× TP-200 TNT brick
+Unlocks purchase of SOK-12 12/76 SAI-02 10-round magazine at Jaeger LL2",Yes,"Previous:
+Chemical - Part 1","Leads to:
+Chemical - Part 3"
+Chemical - Part 3,PickUp,"Obtain the chemical-filled syringe hidden in Factory
+Hand over the chemical-filled syringe to Skier","+5,400 EXP
+Skier Rep +0.04
+Jaeger Rep -0.01
+22,000 Roubles
+1× BelOMO PSO-1M2-1 4x24 scope
+4× ""Zarya"" stun grenade",Yes,"Previous:
+Chemical - Part 2","Leads to:
+Vitamins - Part 1
+Chemical - Part 4
+Out of Curiosity
+Big Customer"
+Chemical - Part 4,PickUp,"Find the transport with the chemicals
+Mark the chemical transport vehicle with an MS2000 Marker
+Survive and extract from Customs","+6,500 EXP
+Skier Rep +0.04
+35,000 Roubles
+1× Grenade case","No, but a subsequent quest Yes","Previous:
+Chemical - Part 3","Leads to:
+No Offence
+Trust Regain
+Safe Corridor"
+Loyalty Buyout,Standing,"Hand over 1,000,000 RUB to Skier",Skier Rep +0.25,No,"Previous:
+Out of Curiosity
+or
+Big Customer","Leads to:
+-"
+Vitamins - Part 1,PickUp,"Obtain the first Chemical container
+Hand over the first Chemical container to Skier
+Obtain the second Chemical container
+Hand over the second Chemical container to Skier
+Obtain the third Chemical container
+Hand over the third Chemical container to Skier","+13,000 EXP
+Skier Rep +0.05
+Jaeger Rep -0.01
+40,000 Roubles
+3× Holosun HS401G5 reflex sight
+2× Trijicon SRS-02 reflex sight",Yes,"Previous:
+Chemical - Part 3","Leads to:
+Vitamins - Part 2"
+Vitamins - Part 2,PickUp,"Find 4 Respirators in raid
+Hand over 4 Respirators to Skier
+Find 3 Medical bloodsets in raid
+Hand over 3 Medical bloodsets to Skier","+15,800 EXP
+Skier Rep +0.05
+40,000 Roubles
+4× Morphine injector
+1× Golden Star balm
+Unlocks purchase of TDI KRISS Vector Gen.2 9x19 submachine gun at Skier LL3",Yes,"Previous:
+Vitamins - Part 1","Leads to:
+Beyond the Red Meat - Part 1
+Pyramid Scheme"
+Friend From the West - Part 1,Elimination,"Eliminate 7 USEC PMCs
+Obtain 7 USEC PMC dogtags
+Hand over 7 USEC PMC dogtags to Skier","+10,000 EXP
+Skier Rep +0.06
+700 Dollars
+2× ADAR 2-15 5.56x45 carbine
+60× 5.56x45mm M855A1
+1× Roler Submariner gold wrist watch",Yes,"Previous:
+Supplier","Leads to:
+Friend From the West - Part 2"
+Friend From the West - Part 2,Merchant,"Hand over 6,000 USD to Skier","+6,300 EXP
+Skier Rep +0.05
+Unlocks purchase of TDI KRISS Vector Gen.2 .45 ACP submachine gun at Skier LL3",Yes,"Previous:
+Friend From the West - Part 1","Leads to:
+Fishing Gear
+Lend-Lease - Part 1
+Long Road
+Setup"
+Informed Means Armed,Completion,"Install a WI-FI Camera to watch the sawmill dock on Woods
+Install a WI-FI Camera to watch the road to the port on Customs
+Install a WI-FI Camera to watch the Kiba Arms store entrance on Interchange","+14,000 EXP
+Skier Rep +0.05
+45,000 Roubles
+2× AKM/AK-74 FAB Defense UAS stock
+4× AK CNC Warrior 5.56x45 muzzle device adapter
+1× EOTech Vudu 1-6x24 30mm riflescope",Yes,"Previous:
+Setup","Leads to:
+Chumming"
+Chumming,Completion,"Stash 3 Golden neck chains under the mattress next to BTR-82A in Generic Store on Interchange
+Stash 3 Golden neck chains in the microwave on the 3rd floor of the dorm on Customs
+Stash 3 Golden neck chains in the middle wooden cabin at the sawmill on Woods
+Eliminate 5 PMC operatives in the time period of 22:00-10:00 on Interchange","+19,100 EXP
+Skier Rep +0.05
+65,000 Roubles
+1× Roler Submariner gold wrist watch
+2× GP coin",Yes,"Previous:
+Informed Means Armed","Leads to:
+Flint
+Debtor
+Bullshit
+No Swiping"
+Silent Caliber,Elimination,"Eliminate 20 Scavs with using a suppressed 12 gauge shotgun
+Eliminate 10 PMCs while using a suppressed 12 gauge shotgun","+18,000 EXP
+Skier Rep +0.05
+100,000 Roubles
+1× MP-155 12ga semi-automatic shotgun (Ultima variant)
+Unlocks craft for 12/70 flechette at Workbench level 3",No,"Previous:
+Bullshit","Leads to:
+-"
+Bullshit,Discovery,"Obtain the False flash drive from the specified spot on Customs
+Stash the False flash drive in the trash opposite of the stairs on the 3rd floor of the dorm
+Stash 1 SV-98 sniper rifle in the trash opposite of the stairs on the 3rd floor of the dorm
+Stash 1 Roler Submariner gold wrist watch in the trash opposite of the stairs on the 3rd floor of the dorm
+You must not kill any Scavs on Customs until the quest is completed","+29,900 EXP
+Skier Rep +0.07
+Fence Rep +0.05
+120,000 Roubles
+1,000 Dollars
+Unlocks purchase of CMMG Mk47 Mutant 7.62x39 assault rifle at Skier LL4
+Unlocks barter for 12/70 RIP ammo pack (5 pcs) at Skier LL2
+Unlocks barter for Kiba Arms Titan ballistic plate at Skier LL3",Yes,"Previous:
+Chumming","Leads to:
+Silent Caliber"
+Setup,Elimination,Eliminate 15 PMC operatives while wearing the specified gear on Customs,"+21,900 EXP
+Skier Rep +0.05
+Fence Rep +0.05
+150,000 Roubles
+1× Kel-Tec RFB 7.62x51 rifle
+100× 12/70 AP-20 armor-piercing slug
+Unlocks barter for 9x19mm RIP ammo pack (20 pcs) at Skier LL4",Yes,"Previous:
+Friend From the West - Part 2","Leads to:
+Informed Means Armed"
+Flint,Skill,Reach the required Stress resistance skill level of 5,"+25,100 EXP
+Skier Rep +0.05
+150,000 Roubles
+3× Bottle of Tarkovskaya vodka
+5× Bottle of Pevko Light beer
+Unlocks barter for Miller Bros. Blades M-2 Tactical Sword at Skier LL4",Yes,"Previous:
+Chumming","Leads to:
+-"
+Lend-Lease - Part 1,PickUp,"Obtain the first Motor Controller on Woods
+Hand over the first controller to Skier
+Obtain the second Motor Controller on Shoreline
+Hand over the second Motor Controller|controller to Skier
+Obtain the third Motor Controller on Shoreline
+Hand over the third controller to Skier
+Obtain the first Single-axis Fiber Optic Gyroscope on Woods
+Hand over the first Single-axis Fiber Optic Gyroscope to Skier
+Obtain the second Single-axis Fiber Optic Gyroscope on Shoreline
+Hand over the second Single-axis Fiber Optic Gyroscope to Skier","+17,500 EXP
+Skier Rep +0.05
+3,000 Dollars
+1× Armasight N-15 Night Vision Goggles
+Unlocks purchase of ORSIS T-5000M 7.62x51 bolt-action sniper rifle at Skier LL3",Yes,"Previous:
+Friend From the West - Part 2","Leads to:
+Lend-Lease - Part 2"
+Kind of Sabotage,PickUp,Hand over Secure Folder 0052 to Skier,"+4,500 EXP
+Skier Rep +0.04
+180,000 Roubles","No, but a subsequent quest Yes","Previous:
+Pharmacist","Leads to:
+Dangerous Road
+The Huntsman Path - Woods Keeper"
+Rigged Game,Discovery,"Put an MS2000 Marker on the medical container at the Health Resort on Shoreline
+Put an MS2000 Marker on the medical container by cottages on Shoreline
+Put an MS2000 Marker on the medical container at the pier on Shoreline
+Survive and extract from the location","+12,900 EXP
+Skier Rep +0.05
+150,000 Roubles
+1× HK MP5 9x19 submachine gun (Navy 3 Round Burst) (variant SD)
+3× HK MP5 9x19 30-round magazine
+120× 9x19mm Luger CCI",Yes,"Previous:
+Anesthesia","Leads to:
+Night Sweep
+The Huntsman Path - Sadist
+or
+Colleagues - Part 3"
+Safe Corridor,Elimination,Eliminate 10 Scavs in the underground warehouse on Reserve,"+9,000 EXP
+Skier Rep +0.04
+35,000 Roubles
+2× 5.45x39mm BP gs ammo pack (120 pcs)
+2× Expeditionary fuel tank",Yes,"Previous:
+Chemical - Part 4
+or
+Out of Curiosity
+or
+Big Customer","Leads to:
+-"
+Night Sweep,Pickup,"Find 12 unusual knives in raid
+Hand over 12 knives to Skier","+107,000 EXP
++2 Shotguns skill levels
+6,000 Dollars
+Unlocks craft for XTG-12 antidote injector at Medstation level 2",No,"Previous:
+Rigged Game","Leads to:
+-"
+Long Road,Elimination,Eliminate 15 Scavs along the main road on Lighthouse,"+15,300 EXP
+Skier Rep +0.02
+45,000 Roubles
+Unlocks purchase of Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle (variant Urbana) at Skier LL3",Yes,"Previous:
+Friend From the West - Part 2","Leads to:
+Missing Cargo"
+Missing Cargo,Exploration,"Locate the crashed helicopter on Lighthouse
+Find the informant's intelligence folder
+Hand over the folder","+14,000 EXP
+Skier Rep +0.03
+68,000 Roubles
+Unlocks purchase of AR-15 Magpul MOE Carbine stock (Black) at Skier LL3
+Unlocks purchase of AK Zenit RK-3 pistol grip at Skier LL3
+Unlocks purchase of Magpul MOE Carbine rubber buttpad at Skier LL4",Yes,"Previous:
+Long Road","Leads to:
+Top Secret"
+Top Secret,PickUp,"Locate the radar station commandant's office on Lighthouse
+Obtain the military HDD with archived flight routes
+Hand over the drive","11,700 EXP
+Skier Rep +0.03
+50,000 Roubles
+1× Rifle Dynamics RD-704 7.62x39 assault rifle
+2× AK 7.62x39 FAB Defense Ultimag 30R 30-round magazine
+60× 7.62x39mm MAI AP",No,"Previous:
+Missing Cargo
+Getting Acquainted (+21-22hr)","Leads to:
+-"
+House Arrest - Part 1,Exploration,"Locate where the missing group was held captive on Streets of Tarkov
+Survive and extract from the location","+28,800 EXP
+Skier Rep +0.03
+112,000 Roubles
+1× Kel-Tec RFB 7.62x51 rifle",No,"Previous:
+Debtor","Leads to:
+House Arrest - Part 2 (+21hr)"
+House Arrest - Part 2,Exploration,"Locate the improvised jail warden's apartment on Streets of Tarkov
+Find out what happened to the warden
+Survive and extract from the location","+29,200 EXP
+Skier Rep +0.03
+114,000 Roubles
+1× TDI KRISS Vector Gen.2 9x19 submachine gun",No,"Previous:
+House Arrest - Part 1 (+21hr)","Leads to:
+-"
+Debtor,Exploration,"Find the debtor on Streets of Tarkov
+Survive and extract from the location","+26,600 EXP
+Skier Rep +0.03
+250,000 Roubles",No,"Previous:
+Chumming","Leads to:
+House Arrest - Part 1"
+Beyond the Red Meat - Part 1,Pickup,"Locate and obtain information on culinary secrets at the Beluga restaurant on Streets of Tarkov
+Hand over the found data","+18,400 EXP
+Skier Rep +0.02
+80,000 Roubles
+2× SAG AK-545 5.45x39 carbine
+4× AK-74 5.45x39 6L23 30-round magazine (black)
+6× 5.45x39mm BT gs ammo pack (30 pcs)
+Unlocks purchase of AK CSS knurled charging handle at Skier LL3",No,"Previous:
+Vitamins - Part 2","Leads to:
+Beyond the Red Meat - Part 2"
+Beyond the Red Meat - Part 2,Pickup,"Locate and obtain the secret ingredient at the TerraGroup office on Streets of Tarkov
+Hand over the chemical additive","+21,300 EXP
+Skier Rep +0.03
+120,000 Roubles
+1× SIG MCX .300 Blackout assault rifle
+3× 5.56x45 Colt AR-15 STANAG 30-round magazine
+120× .300 Blackout CBJ
+Unlocks purchase of Zenit RK-1 tactical foregrip on B-25U mount at Skier LL4",No,"Previous:
+Beyond the Red Meat - Part 1","Leads to:
+-"
+Pyramid Scheme,Exploration,"Locate the first ATM on Nizhnaya Sadovaya Street on Streets of Tarkov
+Locate the second ATM on Nizhnaya Sadovaya Street on Streets of Tarkov
+Locate the ATM on Razvedchikov Street on Streets of Tarkov
+Locate the first group of ATMs on Klimov Street on Streets of Tarkov
+Locate the first ATM on Klimov Street on Streets of Tarkov
+Locate the group of ATMs on Klimov Street on Streets of Tarkov
+Locate the second ATM on Klimov Street on Streets of Tarkov
+Locate the fourth group of ATMs on Klimov Street on Streets of Tarkov
+Locate the fifth group of ATMs on Klimov Street on Streets of Tarkov
+Locate the third ATM on Klimov Street on Streets of Tarkov
+Locate the fourth ATM on Klimov Street on Streets of Tarkov
+Locate the first ATM on Primorsky Ave on Streets of Tarkov
+Locate the second ATM on Primorsky Ave on Streets of Tarkov
+Locate the third ATM on Primorsky Ave on Streets of Tarkov
+Locate the ATM at the expo on Streets of Tarkov","+25,500 EXP
+Skier Rep +0.03
+600,000 Roubles",No,"Previous:
+Vitamins - Part 2","Leads to:
+-"
+No Swiping,Elimination,"Locate the smugglers' base on Shoreline
+Eliminate any 25 enemies in the base area","+26,000 EXP
+Skier Rep +0.04
+280,000 Roubles
+1× Propane tank (5L)
+1× Car battery
+1× Silicone tube
+1× Alkaline cleaner for heat exchangers
+1× Can of Majaica coffee beans",No,"Previous:
+Chumming","Leads to:
+-"
+Fishing Gear,Completion,"Find the boat hidden next to the breakwater on Shoreline
+Stash 1 sniper rifle in the boat
+Stash 1 multitool in the boat
+Survive and extract from the location","+4,800 EXP
+Peacekeeper Rep +0.02
+700 Dollars
+1× UNTAR helmet
+Unlocks purchase of SIG Sauer ROMEO4 reflex sight at Peacekeeper LL2
+Unlocks barter for Springfield Armory M1A 7.62x51 rifle at Peacekeeper LL2",Yes,"Previous:
+Friend From the West - Part 2","Leads to:
+Tigr Safari
+Samples"
+Tigr Safari,Discovery,"Mark the first Tigr vehicle with an MS2000 Marker on Customs
+Mark the second Tigr vehicle with an MS2000 Marker on Customs
+Mark the third Tigr vehicle with an MS2000 Marker on Customs
+Survive and extract from the location","+5,900 EXP
+Peacekeeper Rep +0.03
+900 Dollars
+1× Direct Action Thunderbolt compact chest rig (Shadow Grey)
+2× M67 hand grenade
+Unlocks purchase of B&T MP9 9x19 submachine gun at Peacekeeper LL1",Yes,"Previous:
+Fishing Gear","Leads to:
+Scrap Metal"
+Scrap Metal,Discovery,"Mark the first T-90 tank with an MS2000 Marker on Shoreline
+Mark the second T-90 tank with an MS2000 Marker on Shoreline
+Mark the third T-90 tank with an MS2000 Marker on Shoreline
+Survive and extract from the location","+5,900 EXP
+Peacekeeper Rep +0.03
+900 Dollars
+1× HK MP5 9x19 submachine gun (Navy 3 Round Burst)
+120× 9x19mm Pst gzh
+Unlocks purchase of HK MP5 9x19 submachine gun (Navy 3 Round Burst) (variant SD) at Peacekeeper LL2
+Unlocks purchase of 5.7x28mm SS197SR at Peacekeeper LL2",Yes,"Previous:
+Tigr Safari","Leads to:
+Eagle Eye"
+Eagle Eye,PickUp,"Find the first UAV crash site on Shoreline
+Obtain the SAS disk from the first crashed drone
+Hand over the first SAS disk  to Peacekeeper
+Find the second UAV crash site on Shoreline
+Obtain the SAS disk from the second crashed drone
+Hand over the second SAS disk  to Peacekeeper","+6,600 EXP
+Peacekeeper Rep +0.03
+900 Dollars
+1× ELCAN SpecterDR 1x/4x scope (FDE)
+1× Leupold Mark 4 HAMR 4x24 DeltaPoint hybrid assault scope
+Unlocks purchase of SIG MPX 9x19 submachine gun at Peacekeeper LL2",Yes,"Previous:
+Scrap Metal","Leads to:
+Humanitarian Supplies"
+Humanitarian Supplies,Discovery,"Mark the first truck with an MS2000 Marker
+(Optional) Find the first truck that was holding the lost UN cargo on Shoreline
+Mark the second truck with an MS2000 Marker
+(Optional) Find the second truck that was holding the lost UN cargo on Shoreline
+Obtain 5 MRE ration packs
+Hand over 5 MRE ration packs to Peacekeeper
+Survive and extract from the location
+Eliminate 10 Scavs on Shoreline while wearing a UN uniform (MF-UNTAR body armor and UN helmet)","+11,500 EXP
+Peacekeeper Rep +0.03
+800 Dollars
+2× Weapon parts
+Unlocks purchase of 5.56x45mm Warmageddon at Peacekeeper LL2
+Unlocks purchase of AK-74 Hexagon 5.45x39 sound suppressor at Skier LL2",Yes,"Previous:
+Eagle Eye","Leads to:
+The Cult - Part 1
+Spa Tour - Part 1
+Revision - Reserve"
+The Cult - Part 1,Exploration,"Find the missing informant on Shoreline
+Survive and extract from the location","+6,200 EXP
+Peacekeeper Rep +0.02
+700 Dollars
+3× Golden neck chain",Yes,"Previous:
+Humanitarian Supplies","Leads to:
+The Cult - Part 2"
+The Cult - Part 2,Exploration,"Put the MS2000 Marker in the first ritual spot on Woods
+Put the MS2000 Marker in the ritual spot on Customs
+Put the MS2000 Marker in the second ritual spot on Woods
+Put the MS2000 Marker in the ritual spot on Shoreline","+7,500 EXP
+Peacekeeper Rep +0.03
+850 Dollars
+1× Knight's Armament Company SR-25 7.62x51 marksman rifle",Yes,"Previous:
+The Cult - Part 1","Leads to:
+-"
+Spa Tour - Part 1,Elimination,Headshot 7 Scavs on Shoreline while using a 12 gauge shotgun,"+7,400 EXP
+Peacekeeper Rep +0.03
+950 Dollars
+1× SIG MPX 9x19 submachine gun (variant Silenced)
+3× MPX 9x19 30-round magazine
+90× 9x19mm RIP
+1x Health Resort west wing room 306 key",Yes,"Previous:
+Humanitarian Supplies","Leads to:
+Spa Tour - Part 2
+Overpopulation"
+Spa Tour - Part 2,Exploration,"Mark the helicopter on Shoreline with an MS2000 Marker
+Mark the safe road on Shoreline with an MS2000 Marker
+Survive and extract from the location","+6,300 EXP
+Peacekeeper Rep +0.02
+900 Dollars
+1× Physical Bitcoin
+Unlocks purchase of M67 hand grenade at Peacekeeper LL3",Yes,"Previous:
+Spa Tour - Part 1","Leads to:
+Spa Tour - Part 3"
+Spa Tour - Part 3,PickUp,"Find 1 WD-40 (100ml) in raid
+Hand over 1 WD-40 (100ml) to Peacekeeper
+Find 2 Clin window cleaners in raid
+Hand over 2 Clin window cleaners to Peacekeeper
+Find 2 Corrugated hoses in raid
+Hand over 2 Corrugated hoses to Peacekeeper
+Find 2 Ox bleaches in raid
+Hand over 2 Ox bleaches to Peacekeeper","+7,600 EXP
+Peacekeeper Rep +0.03
+800 Dollars
+1× TDI KRISS Vector Gen.2 9x19 submachine gun
+5× M67 hand grenade
+4× Glock 9x19 ""Big Stick"" 33-round magazine
+2× Toolset",Yes,"Previous:
+Spa Tour - Part 2","Leads to:
+Spa Tour - Part 4
+Counteraction"
+Spa Tour - Part 4,Discovery,"Locate the generators in the east wing of the Health Resort
+Locate the generators in the west wing of the Health Resort
+Survive and extract from the location","+7,700 EXP
+Peacekeeper Rep +0.03
+1,100 Dollars
+1× Car battery",Yes,"Previous:
+Spa Tour - Part 3","Leads to:
+Spa Tour - Part 5"
+Spa Tour - Part 5,PickUp,"Obtain the key to the closed premises of the Sanatorium
+Hand over the key to Peacekeeper","+6,500 EXP
+Peacekeeper Rep +0.02
+980 Dollars
+1× RB-AO key",Yes,"Previous:
+Spa Tour - Part 4","Leads to:
+Spa Tour - Part 6"
+Spa Tour - Part 6,Standing,"Hand over 8,000 USD to Peacekeeper","+9,500 EXP
+Peacekeeper Rep +0.04",Yes,"Previous:
+Spa Tour - Part 5","Leads to:
+Spa Tour - Part 7"
+Spa Tour - Part 7,PickUp,"Find 4 Morphine injectors in raid
+Hand over 4 Morphine injectors to Peacekeeper
+Find 2 Alkaline cleaners for heat exchangers in raid
+Hand over 2 Alkaline cleaners for heat exchangers to Peacekeeper
+Find 2 Corrugated hoses in raid
+Hand over 2 Corrugated hoses to Peacekeeper
+Find 2 5L propane tanks in raid
+Hand over 2 5L propane tanks to Peacekeeper","+9,700 EXP
+Peacekeeper Rep +0.04
+Jaeger Rep -0.01
+1× RB-ST key
+Unlocks purchase of Crye Precision AirFrame helmet (Tan) at Peacekeeper LL4",Yes,"Previous:
+Spa Tour - Part 6","Leads to:
+Wet Job - Part 1
+Cargo X - Part 1
+Green Corridor
+Road Closed"
+Cargo X - Part 1,PickUp,"Obtain the data in the computer room in the east wing of the Health Resort
+Hand over the retrieved data to Peacekeeper","+8,200 EXP
+Peacekeeper Rep +0.03
+700 Dollars
+1× Pistol case
+2× Colt M45A1 .45 ACP pistol
+6× M1911A1 .45 ACP Wilson Combat 7-round magazine",Yes,"Previous:
+Spa Tour - Part 7","Leads to:
+Cargo X - Part 2"
+Cargo X - Part 2,Exploration,"Locate the room with reservoirs in the Health Resort
+Obtain any information about the second part of the cargo shipment
+Hand over the retrieved information to Peacekeeper","+8,300 EXP
+Peacekeeper Rep +0.03
+850 Dollars
+1× Colt M4A1 5.56x45 assault rifle
+3× 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine
+Unlocks purchase of KAC QDSS NT-4 5.56x45 sound suppressor (Black) at Peacekeeper LL3",Yes,"Previous:
+Cargo X - Part 1","Leads to:
+Cargo X - Part 3"
+Cargo X - Part 3,Multi,"Find the hidden TerraGroup cargo on Shoreline
+Survive and extract from the location","+8,400 EXP
+Peacekeeper Rep +0.03
+900 Dollars
+1× HK MP7A1 4.6x30 submachine gun",Yes,"Previous:
+Cargo X - Part 2","Leads to:
+Cargo X - Part 4"
+Wet Job - Part 1,Elimination,"Eliminate 10 Scavs while using a suppressed M4A1, ADAR or TX-15 on Shoreline","+11,400 EXP
+Peacekeeper Rep +0.04
+1,100 Dollars
+2× Secure magnetic tape cassette
+Unlocks craft for .300 Blackout M62 Tracer at Workbench level 3",Yes,"Previous:
+Spa Tour - Part 7","Leads to:
+Wet Job - Part 2"
+Wet Job - Part 2,Exploration,"Find the fishermen's dwelling on Shoreline
+Mark the fishing table with an MS2000 Marker
+Survive and extract from the location","+9,700 EXP
+Peacekeeper Rep +0.03
+1,300 Dollars
+1× Eberlestock F5 Switchblade backpack (Dry Earth)
+Unlocks barter for 5.56x45 Magpul PMAG D-60 STANAG 60-round magazine at Peacekeeper LL4
+Unlocks purchase of MSA ACH TC-2001 MICH Series helmet (Olive Drab) at Peacekeeper LL2",Yes,"Previous:
+Wet Job - Part 1","Leads to:
+Wet Job - Part 3"
+Wet Job - Part 3,Exploration,"Find Artyom's car on Shoreline
+Survive and extract from the location","+8,200 EXP
+Peacekeeper Rep +0.03
+1,500 Dollars
+1× NcSTAR ADO P4 Sniper 3-9x42 riflescope
+Unlocks purchase of HK 416A5 5.56x45 assault rifle at Peacekeeper LL3",Yes,"Previous:
+Wet Job - Part 2","Leads to:
+Wet Job - Part 4"
+Wet Job - Part 4,PickUp,"Obtain a list of the resort's tenants on Shoreline
+Hand over the list of tenants to Peacekeeper","+8,300 EXP
+Peacekeeper Rep +0.03
+1,700 Dollars
+1× Shoreline Health Resort plan map
+Unlocks purchase of Desert Tech MDR 7.62x51 assault rifle at Peacekeeper LL4",Yes,"Previous:
+Wet Job - Part 3","Leads to:
+Wet Job - Part 5
+Mentor"
+Wet Job - Part 5,PickUp,"Obtain information on Artyom's work on Shoreline
+Hand over the information to Peacekeeper","+8,400 EXP
+Peacekeeper Rep +0.03
+1,700 Dollars
+1× HighCom Trooper TFO body armor (MultiCam)
+Unlocks purchase of Remington R11 RSASS 7.62x51 marksman rifle at Peacekeeper LL4
+Unlocks purchase of AFAK tactical individual first aid kit at Peacekeeper LL4",Yes,"Previous:
+Wet Job - Part 4","Leads to:
+Wet Job - Part 6
+Worst Job in the World"
+Mentor,Completion,"Hand over 50,000 EUR to Peacekeeper",+3 Sniper Rifles skill levels,No,"Previous:
+Wet Job - Part 4","Leads to:
+-"
+Wet Job - Part 6,Skill,Reach the required Sniper Rifles skill level of 7,"+8,500 EXP
+Peacekeeper Rep +0.03
+3,500 Dollars
+1× Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle (variant Saboteur)
+50× 7.62x51mm M61
+Unlocks barter for FN40GL Mk2 40mm grenade launcher at Peacekeeper LL4",Yes,"Previous:
+Wet Job - Part 5","Leads to:
+Psycho Sniper
+The Guide"
+The Guide,Exploration,"Survive and extract from Woods with the ""Survived"" exit status
+Survive and extract from Customs with the ""Survived"" exit status
+Survive and extract from Interchange with the ""Survived"" exit status
+Survive and extract from Shoreline with the ""Survived"" exit status
+Survive and extract from Factory with the ""Survived"" exit status
+Survive and extract from The Lab with the ""Survived"" exit status
+Survive and extract from Reserve with the ""Survived"" exit status
+Survive and extract from Lighthouse with the ""Survived"" exit status
+Survive and extract from Streets of Tarkov with the ""Survived"" exit status","+42,600 EXP
+Peacekeeper Rep +0.04
+25,000 Dollars
+1× EOTech HHS-1 hybrid sight (Tan)
+1× Ops-Core SLAAP armor helmet plate (Tan)
+3× AR-15 Vltor MUR-1S 5.56x45 upper receiver
+Unlocks purchase of EOTech HHS-1 hybrid sight (Tan) at Peacekeeper LL4
+Unlocks purchase of Ops-Core SLAAP armor helmet plate (Tan) at Peacekeeper LL4
+Unlocks purchase of AR-15 Vltor MUR-1S 5.56x45 upper receiver at Peacekeeper LL4
+Unlocks craft for 4.6x30mm AP SX at Workbench level 3",Yes,"Previous:
+Wet Job - Part 6","Leads to:
+The Cleaner"
+Samples,PickUp,"Find 1 M.U.L.E. stimulant injector in raid
+Hand over 1 M.U.L.E. stimulant injector to Peacekeeper
+Find 1 ""Obdolbos"" cocktail injector in raid
+Hand over 1 ""Obdolbos"" cocktail injector to Peacekeeper
+Find 1 Meldonin stimulant injector in raid
+Hand over 1 Meldonin stimulant injector to Peacekeeper
+Find 1 AHF1-M stimulant injector in raid
+Hand over 1 AHF1-M stimulant injector to Peacekeeper
+Find 1 P22 (Product 22) stimulant injector in raid
+Hand over 1 P22 (Product 22) stimulant injector to Peacekeeper
+Find 1 L1 (Norepinephrine) stimulant injector in raid
+Hand over 1 L1 (Norepinephrine) stimulant injector to Peacekeeper
+Find 1 3-(b-TG) stimulant injector in raid
+Hand over 1 3-(b-TG) stimulant injector to Peacekeeper","+15,300 EXP
+Peacekeeper Rep +0.04
+4,000 Dollars
+1× Ammunition case
+1× DS Arms SA-58 7.62x51 assault rifle (variant BEL)
+Unlocks purchase of Ops-Core FAST multi-hit ballistic face shield at Peacekeeper LL4
+Unlocks purchase of Team Wendy EXFIL Ballistic Helmet (variant Black) at Peacekeeper LL4",Yes,"Previous:
+Anesthesia
+Fishing Gear","Leads to:
+TerraGroup Employee"
+TerraGroup Employee,PickUp,"Find Sanitar's workplace in the Lab
+Obtain information about Sanitar's work
+Hand over the Flash drive marked with blue tape to Peacekeeper","+17,000 EXP
+Peacekeeper Rep +0.04
+5,000 Dollars
+4× Desert Tech MDR 7.62x51 assault rifle
+3× AR-10 7.62x51 Magpul PMAG 20 SR-LR GEN M3 20-round magazine
+80× 7.62x51mm M80
+Unlocks purchase of Mesa Tactical Crosshair Hydraulic buffer tube at Peacekeeper LL4",Yes,"Previous:
+Samples
+Colleagues - Part 3
+or
+The Huntsman Path - Sadist","Leads to:
+-"
+Lend-Lease - Part 2,PickUp,"Find 2 Virtex programmable processors in raid
+Find 1 Military COFDM Wireless Signal Transmitter in raid
+Hand over 2 Virtex programmable processors to Peacekeeper
+Hand over 1 Military COFDM Wireless Signal Transmitter to Peacekeeper","+21,000 EXP
+Peacekeeper Rep +0.04
+2,000 Dollars
+2× HK 416A5 5.56x45 assault rifle
+2× 5.56x45 Magpul PMAG D-60 STANAG 60-round magazine
+2× 5.56x45 SureFire MAG5-60 STANAG 60-round magazine
+300× 5.56x45mm M995",Yes,"Previous:
+Lend-Lease - Part 1","Leads to:
+Peacekeeping Mission"
+Peacekeeping Mission,Elimination,"Eliminate 12 Scavs on Woods while wearing a UN uniform (UN helmet, MF-UNTAR body armor, M4A1 rifle)
+Eliminate 12 Scavs on Customs while wearing a UN uniform (UN helmet, MF-UNTAR body armor, M4A1 rifle)
+Eliminate 12 Scavs on Interchange while wearing a UN uniform (UN helmet, MF-UNTAR body armor, M4A1 rifle)
+Eliminate 12 Scavs on Shoreline while wearing a UN uniform (UN helmet, MF-UNTAR body armor, M4A1 rifle)
+Eliminate 12 Scavs on Streets of Tarkov while wearing a UN uniform (UN helmet, MF-UNTAR body armor, M4A1 rifle)","+25,500 EXP
+Peacekeeper Rep +0.04
+1× Remington Model 700 7.62x51 bolt-action sniper rifle (variant AAC SD)
+30× 7.62x51mm M61
+2× GPNVG-18 Night Vision goggles
+Unlocks barter for CQC Osprey MK4A plate carrier (Protection, MTP) at Peacekeeper LL4
+Unlocks barter for Cult Locust ballistic plate at Skier LL4",Yes,"Previous:
+Lend-Lease - Part 2","Leads to:
+-"
+Classified Technologies,Pickup,"Obtain the package with T-90M Commander control panel on Reserve
+Hand over the package to Peacekeeper","+7,200 EXP
+Peacekeeper Rep +0.02
+800 Dollars
+200× 5.7x28mm R37.F",Yes,"Previous:
+Revision - Reserve","Leads to:
+-"
+Revision - Reserve,Discovery,"Locate and inspect the first BMP-2 on Reserve
+Mark the first BMP-2 with an MS2000 Marker
+Locate and inspect the second BMP-2 on Reserve
+Mark the second BMP-2 with an MS2000 Marker
+Locate and inspect the third BMP-2 on Reserve
+Mark the third BMP-2 with an MS2000 Marker
+Locate and inspect the fourth BMP-2 on Reserve
+Mark the fourth BMP-2 with an MS2000 Marker
+Locate and inspect the first LAV III on Reserve
+Mark the first LAV III with an MS2000 Marker
+Locate and inspect the second LAV III on Reserve
+Locate and inspect the T-90 tank on Reserve","+7,300 EXP
+Peacekeeper Rep +0.03
+800 Dollars
+15× 5.56x45mm Warmageddon ammo pack (20 pcs)",Yes,"Previous:
+Humanitarian Supplies","Leads to:
+Classified Technologies
+Revision - Lighthouse
+Revision - Streets of Tarkov"
+The Cleaner,Elimination,Eliminate 40 Scav Raiders on Reserve,"+84,000 EXP
++1 Designated Marksman Rifles skill level
++2 Submachine guns skill level
++2 Assault Rifles skill level
+3,000 Euros
+Unlocks craft for .300 Blackout AP at Workbench level 3",No,"Previous:
+The Guide","Leads to:
+-"
+Special Equipment,PickUp,"Find 5 VPX Flash Storage Modules in raid
+Find 5 UHF RFID Readers in raid
+Find 5 Virtex programmable processors in raid
+Find 5 Military COFDM Wireless Signal Transmitters in raid
+Find 4 Military flash drives in raid
+Handover 5 VPX Flash Storage Modules to Peacekeeper
+Handover 5 UHF RFID Readers to Peacekeeper
+Handover 5 Virtex programmable processors to Peacekeeper
+Handover 5 Military COFDM Wireless Signal Transmitters to Peacekeeper
+Handover 4 flash drives","+177,000 EXP
+1× Weapon case
+7× TerraGroup Labs access keycard
+4× Iridium military thermal vision module",No,"Previous:
+Trophies","Leads to:
+-"
+Cargo X - Part 4,Discovery,"Locate and mark the TerraGroup cargo with an MS2000 Marker on Lighthouse
+Survive and extract from the location","+8,600 EXP
+Peacekeeper Rep +0.02
+800 Dollars
+Unlocks purchase of Ops-Core FAST MT Super High Cut helmet (Urban Tan) at Peacekeeper LL4",Yes,"Previous:
+Cargo X - Part 3","Leads to:
+Your Car Needs a Service
+Insomnia"
+Insomnia,Elimination,Eliminate 30 PMC operatives in the time period of 22:00-05:00 (Excluding Factory and  The Lab),"+18,200 EXP
+Peacekeeper Rep +0.01
+1,000 Dollars
+2× GPNVG-18 Night Vision goggles
+1× Ops-Core FAST MT Super High Cut helmet (Black)
+2× Ops-Core FAST multi-hit ballistic face shield
+Unlocks barter for SAPI level III+ ballistic plate at Peacekeeper LL4",Yes,"Previous:
+Cargo X - Part 4","Leads to:
+-"
+Counteraction,Elimination,"Eliminate 20 BEAR PMC operatives all over the Lighthouse territory
+Hand over 20 found in raid BEAR PMC dogtags","+22,000 EXP
+Peacekeeper Rep +0.03
+2,300 Dollars
+1× SSD drive
+1× Intelligence folder
+1× Topographic survey maps
+Unlocks purchase of 23x75mm Zvezda flashbang round at Skier LL4",No,"Previous:
+Spa Tour - Part 3","Leads to:
+-"
+Overpopulation,Elimination,Secure the cottage area from Scavs on Lighthouse,"+12,000 EXP
+Peacekeeper Rep +0.02
+1,100 Dollars
+Unlocks barter for DS Arms SA-58 7.62x51 assault rifle (variant AUT) at Peacekeeper LL2",Yes,"Previous:
+Spa Tour - Part 1","Leads to:
+-"
+Revision - Lighthouse,Discovery,"Locate and mark the first BRDM with an MS2000 Marker
+Locate and mark the second BRDM with an MS2000 Marker
+Locate and mark the first Stryker with an MS2000 Marker
+Locate and mark the second Stryker with an MS2000 Marker","+7,800 EXP
+Peacekeeper Rep +0.03
+850 Dollars
+Unlocks purchase of FN Five-seveN MK2 5.7x28 pistol (FDE) at Peacekeeper LL2
+Unlocks purchase of 7.62x51mm M80 at Peacekeeper LL3",Yes,"Previous:
+Revision - Reserve","Leads to:
+-"
+Trophies,Pickup,"Find in raid and handover 20× BEAR PMC Dogtags of level 50+
+Find in raid and handover 20× USEC PMC Dogtags of level 50+","+137,000 EXP
+4× Ammunition case
+1× Armband (UNTAR)
+1× FN40GL Mk2 40mm grenade launcher
+10× 40x46mm M433 (HEDP) grenade
+Unlocks craft for 7.62x51mm M61 at Workbench level 3",No,"Previous:
+The Huntsman Path - Forest Cleaning","Leads to:
+Special Equipment"
+Revision - Streets of Tarkov,Discovery,"Locate and mark the first LAV III with an MS2000 Marker on Streets of Tarkov
+Locate and mark the Stryker with an MS2000 Marker on Streets of Tarkov
+Locate and mark the second LAV III with an MS2000 Marker on Streets of Tarkov
+Survive and extract from the location","+8,600 EXP
+Peacekeeper Rep +0.02
+450 Dollars
+Unlocks purchase of FN SCAR-L 5.56x45 assault rifle (FDE) (variant CQC) at Peacekeeper LL2",No,"Previous:
+Revision - Reserve","Leads to:
+Worst Job in the World"
+Road Closed,Exploration,"Locate the cargo convoy on Streets of Tarkov
+Determine the ambush spot
+Survive and extract from the location","+10,500 EXP
+Peacekeeper Rep +0.02
+62,300 Roubles
+1× HK MP7A1 4.6x30 submachine gun
+3× HK MP7 4.6x30 20-round magazine
+80× 4.6x30mm Action SX",No,"Previous:
+Spa Tour - Part 7","Leads to:
+-"
+Worst Job in the World,Elimination,Eliminate any 30 hostiles from over 100 meters away while using AR-15 platform weapons,"+15,400 EXP
+Peacekeeper Rep +0.03
+Unlocks barter for M203 40mm underbarrel grenade launcher at Peacekeeper LL3
+Unlocks purchase of 40x46mm M386 (HE) grenade at Peacekeeper LL3",No,"Previous:
+Revision - Streets of Tarkov
+Wet Job - Part 5","Leads to:
+-"
+Your Car Needs a Service,PickUp,"Obtain the digital storage device from the car dealership manager's office on Streets of Tarkov
+Hand over the digital storage device","+31,400 EXP
+Peacekeeper Rep +0.03
+1,000 Dollars
+Unlocks craft for 5.56x45mm M855A1 at Workbench level 3",No,"Previous:
+Cargo X - Part 4","Leads to:
+-"
+Saving the Mole,PickUp,"Locate the USEC PMC group at the parking lot of the TerraGroup complex on Ground Zero
+Locate the lab scientist on Ground Zero
+Access the scientist's office
+Locate and obtain the scientist's hard drive
+Hand over the hard drive","+3,800 EXP
+Mechanic Rep +0.01
+15,000 Roubles
+2× Tube of Poxeram cold welding
+2× Metal spare parts",No,"Previous:
+-","Leads to:
+Gunsmith - Part 1"
+Introduction,Completion,"Find Jaeger's camp at the specified spot on Woods
+Obtain Jaeger's encrypted message
+Hand over the message to Mechanic","+4,500 EXP
+Mechanic Rep +0.03
+30,000 Roubles
+Unlocks Jaeger as trader",Yes,"Previous:
+Gunsmith - Part 1","Leads to:
+Acquaintance"
+Gunsmith - Part 1,Parameter-oriented modding,Modify an MP-133 to comply with the required specification,"+800 EXP
+Mechanic Rep +0.01
+10,000 Roubles
+1× Screw nuts
+1× Bolts
+20× 12/70 makeshift .50 BMG slug
+Unlocks purchase of AR-15 Windham Weaponry Rail Gas Block at Mechanic LL1",Yes,"Previous:
+Saving the Mole","Leads to:
+Gunsmith - Part 2
+Gunsmith - Part 3
+Farming - Part 1
+Introduction"
+Gunsmith - Part 2,Parameter-oriented modding,Modify an AKS-74U to comply with the given specifications,"+2,000 EXP
+Mechanic Rep +0.01
+15,000 Roubles
+2× Capacitors
+2× Bundle of wires
+2× Light bulb
+Unlocks purchase of AK 100-series polymer handguard at Prapor LL1",Yes,"Previous:
+Gunsmith - Part 1","Leads to:
+Gunsmith - Part 4
+Signal - Part 1"
+Gunsmith - Part 3,Parameter-oriented modding,Modify an MP5 to comply with the given specifications,"+2,800 EXP
+Mechanic Rep +0.01
+250 Dollars
+2× SwampFox Trihawk Prism Scope 3x30
+2× Magpul RVG foregrip (FDE)
+Unlocks barter for Glock 17 9x19 pistol (variant Tac 3) at Mechanic LL1",Yes,"Previous:
+Gunsmith - Part 1","Leads to:
+Gunsmith - Part 4
+Insider"
+Gunsmith - Part 4,Parameter-oriented modding,Modify an OP-SKS to comply with the given specifications,"+3,600 EXP
+Mechanic Rep +0.01
+25,000 Roubles
+2× Gunpowder ""Kite""
+1× Car battery
+1× Electric motor
+Unlocks barter for PP-19-01 ""Vityaz"" 9x19 submachine gun (variant Zenit) at Mechanic LL1",Yes,"Previous:
+Gunsmith - Part 2
+Gunsmith - Part 3","Leads to:
+Gunsmith - Part 5"
+Gunsmith - Part 5,Parameter-oriented modding,Modify a Remington Model 870 to comply with the given specifications,"+4,100 EXP
+Mechanic Rep +0.01
+300 Dollars
+3× Weapon parts
+Unlocks barter for Ammunition case at Mechanic LL1",Yes,"Previous:
+Gunsmith - Part 4","Leads to:
+Gunsmith - Part 6 (+21hr)"
+Gunsmith - Part 6,Parameter-oriented modding,Modify an AKM to comply with the given specifications,"+5,800 EXP
+Mechanic Rep +0.01
+50,000 Roubles
+2× Pack of screws
+2× Phase control relay
+60× 7.62x39mm BP gzh
+Unlocks purchase of AK GP-25 accessory kit recoil pad at Prapor LL2",Yes,"Previous:
+Gunsmith - Part 5 (+21hr)","Leads to:
+Gunsmith - Part 7"
+Gunsmith - Part 7,Parameter-oriented modding,Modify an M4A1 to comply with the given specifications,"+6,300 EXP
+Mechanic Rep +0.01
+500 Dollars
+1x Pliers Elite
+1x Electric drill
+Unlocks purchase of AR-15 Daniel Defense MK12 Low Profile Gas Block at Mechanic LL2",Yes,"Previous:
+Gunsmith - Part 6","Leads to:
+Gunsmith - Part 8"
+Gunsmith - Part 8,Parameter-oriented modding,Modify an AKS-74N to comply with the given specifications,"+8,600 EXP
+Mechanic Rep +0.02
+75,000 Roubles
+2× AKS-74U CAA XRSU47SU tactical handguard
+2x AK-74 thread type JMac Customs RRD-4C multi-caliber muzzle brake
+60x 5.45x39mm BS gs",Yes,"Previous:
+Gunsmith - Part 7","Leads to:
+Gunsmith - Part 9 (+21hr)"
+Gunsmith - Part 9,Parameter-oriented modding,Modify an P226R to comply with the given specifications,"+9,800 EXP
+Mechanic Rep +0.02
+300 Euros
+2× Gunpowder ""Hawk""
+Unlocks purchase of Colt M4A1 5.56x45 assault rifle (variant SOPMOD I) at Mechanic LL3
+Unlocks purchase of 5.7x28mm R37.F at Mechanic LL3",Yes,"Previous:
+Gunsmith - Part 8 (+21hr)","Leads to:
+Gunsmith - Part 10"
+Gunsmith - Part 10,Parameter-oriented modding,Modify an AK-105 to comply with the given specifications,"+10,400 EXP
+Mechanic Rep +0.02
+5× Bundle of wires
+2× Metal spare parts
+Unlocks purchase of Ammunition case at Mechanic LL2",Yes,"Previous:
+Gunsmith - Part 9","Leads to:
+Gunsmith - Part 11"
+Gunsmith - Part 11,Parameter-oriented modding,Modify a KRISS Vector 9x19 to comply with the given specifications,"+11,600 EXP
+Mechanic Rep +0.02
+500 Dollars
+1× SureFire SOCOM556-MINI MONSTER 5.56x45 sound suppressor
+Unlocks barter for Colt M4A1 5.56x45 assault rifle (variant SAI ) at Mechanic LL2",Yes,"Previous:
+Gunsmith - Part 10","Leads to:
+Gunsmith - Part 12"
+Gunsmith - Part 12,Parameter-oriented modding,Modify a SIG MPX to comply with the required specification,"+12,300 EXP
+Mechanic Rep +0.02
+500 Dollars
+2× AR-15 Vendetta Precision VP-09 Interceptor 5.56x45 muzzle brake
+1× FN P90 Attenuator 5.7x28 sound suppressor
+1× 5.56x45 SureFire MAG5-100 STANAG 100-round magazine",Yes,"Previous:
+Gunsmith - Part 11","Leads to:
+Gunsmith - Part 13"
+Gunsmith - Part 13,Parameter-oriented modding,Modify an R11 RSASS to comply with the given specifications,"+13,600 EXP
+Mechanic Rep +0.02
+500 Dollars
+2× Corrugated hose
+2× Pack of nails
+Unlocks purchase of KAC PRS/QDC 7.62x51 sound suppressor at Peacekeeper LL3",Yes,"Previous:
+Gunsmith - Part 12","Leads to:
+Gunsmith - Part 14 (+21hr)"
+Gunsmith - Part 14,Parameter-oriented modding,Modify an HK 416A5 to comply with the required specification,"+14,900 EXP
+Mechanic Rep +0.02
+500 Dollars
+1× Torrey Pines Logic T12W 30Hz thermal reflex sight
+3× Gunpowder ""Eagle""
+Unlocks purchase of AR-15 Magpul PRS GEN3 stock (Black) at Peacekeeper LL3",Yes,"Previous:
+Gunsmith - Part 13 (+21hr)","Leads to:
+Gunsmith - Part 15"
+Gunsmith - Part 15,Parameter-oriented modding,Modify an AS VAL to comply with the given specifications,"+19,400 EXP
+Mechanic Rep +0.02
+1× Kiba Arms inner grate door key
+1× Pressure gauge
+Unlocks purchase of VSS/VAL TOZ 6P29M mount at Jaeger LL3",Yes,"Previous:
+Gunsmith - Part 14","Leads to:
+Gunsmith - Part 16"
+Gunsmith - Part 16,Parameter-oriented modding,Modify a DVL-10 to comply with the given specifications,"+20,400 EXP
+Mechanic Rep +0.03
+200,000 Roubles
+2× Pack of screws
+1× Electric drill
+1× Metal fuel tank
+Unlocks purchase of Lone Star TX-15 DML 5.56x45 carbine at Skier LL3",Yes,"Previous:
+Gunsmith - Part 15","Leads to:
+Gunsmith - Part 17"
+Gunsmith - Part 17,Parameter-oriented modding,Modify an AK-102 to comply with the required specification,"+21,400 EXP
+Mechanic Rep +0.03
+35,000 Roubles
+4× Spark plug
+2× GreenBat lithium battery
+Unlocks purchase of Magpul AFG tactical foregrip (Olive Drab) at Mechanic LL3
+Unlocks purchase of AR-15 Hera Arms CQR pistol grip/buttstock at Mechanic LL4
+Unlocks purchase of AK CNC Warrior 5.56x45 muzzle device adapter at Mechanic LL3
+Unlocks purchase of AKM/AK-74 Hera Arms CQR47 pistol grip/buttstock at Mechanic LL4",Yes,"Previous:
+Gunsmith - Part 16","Leads to:
+Gunsmith - Part 18"
+Gunsmith - Part 18,Parameter-oriented modding,Modify an AKMN to comply with the required specification,"+23,100 EXP
+Mechanic Rep +0.03
+50,000 Roubles
+1× EOTech Vudu 1-6x24 30mm riflescope
+1× AK-74 Hexagon Wafflemaker 5.45x39 sound suppressor
+1× AK Hexagon Reactor 5.45x39 muzzle brake
+Unlocks purchase of Steiner LAS/TAC 2 tactical flashlight at Mechanic LL3
+Unlocks purchase of AKM 7.62x39 Kiba Arms .308 muzzle device adapter at Mechanic LL3",Yes,"Previous:
+Gunsmith - Part 17","Leads to:
+Gunsmith - Part 19 (+21hr)"
+Gunsmith - Part 19,Parameter-oriented modding,Modify an SVDS to comply with the required specification,"+25,500 EXP
+Mechanic Rep +0.03
+75,000 Roubles
+1× Ratchet wrench
+1× Bulbex cable cutter
+Unlocks purchase of AK Custom Arms AGS-74 PRO + Sniper Kit pistol grip at Skier LL4",Yes,"Previous:
+Gunsmith - Part 18 (+21hr)","Leads to:
+Gunsmith - Part 20"
+Gunsmith - Part 20,Parameter-oriented modding,Modify an M1A to comply with the required specification,"+26,600 EXP
+Mechanic Rep +0.03
+500 Euros
+AR-15 Hera Arms CQR pistol grip/buttstock
+Hera Arms CQR tactical foregrip
+Unlocks purchase of AR-10 KAC QDC 7.62x51 Muzzle Brake Kit at Mechanic LL3
+Unlocks purchase of Magpul MOE Carbine rubber buttpad at Peacekeeper LL4",Yes,"Previous:
+Gunsmith - Part 19","Leads to:
+Gunsmith - Part 21"
+Gunsmith - Part 21,Parameter-oriented modding,"Modify an M700 to comply with the required specification
+Modify an M1911 to comply with the required specification","+27,700 EXP
+Mechanic Rep +0.03
+1× Pistol case
+50× 7.62x51mm M993
+Unlocks purchase of AR-15 HK Ergo PSG-1 style pistol grip at Mechanic LL4
+Unlocks purchase of AR-15 Strike Industries Advanced Receiver Extension buffer tube (Black) at Mechanic LL4",Yes,"Previous:
+Gunsmith - Part 20","Leads to:
+Gunsmith - Part 22 (+21hr)"
+Gunsmith - Part 22,Parameter-oriented modding,Modify an M4A1 to comply with the required specification,"+28,900 EXP
+Mechanic Rep +0.03
+1,000 Euros
+1× Magazine case
+2× FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope
+Unlocks barter for Trijicon REAP-IR thermal scope at Mechanic LL4
+Unlocks purchase of SilencerCo Saker ASR 556 5.56x45 sound suppressor at Peacekeeper LL4",Yes,"Previous:
+Gunsmith - Part 21 (+21hr)","Leads to:
+Gunsmith - Part 23 (+21-23hr)"
+Gunsmith - Part 23,Parameter-oriented modding,Modify a CMMG Mk47 Mutant to comply with the given specifications,"+29,500 EXP
+Mechanic Rep +0.03
+1,300 Euros
+1× SIG Sauer ECHO1 1-2x30mm 30Hz thermal reflex scope
+Unlocks purchase of Mk47 409mm barrel at Mechanic LL4",No,"Previous:
+Gunsmith - Part 22 (+21-23hr)","Leads to:
+Gunsmith - Part 24 (+21-23hr)"
+Gunsmith - Part 24,Parameter-oriented modding,Modify a KAC SR-25 to comply with the given specifications,"+31,250 EXP
+Mechanic Rep +0.03
+1,500 Euros
+3× Pipe grip wrench
+2× FP-100 filter absorber
+Unlocks purchase of Stark SE-5 Express Forward foregrip at Mechanic LL4",No,"Previous:
+Gunsmith - Part 23 (+21-23hr)","Leads to:
+Gunsmith - Part 25 (+21-23hr)"
+Gunsmith - Part 25,Parameter-oriented modding,Modify a PKP machine gun to comply with the given specifications,"+35,000 EXP
+Mechanic Rep +0.04
+5× Physical Bitcoin
+1× Weapon case
+Unlocks barter for TerraGroup Labs keycard (Black) at Mechanic LL4",No,"Previous:
+Gunsmith - Part 24 (+21-23hr)","Leads to:
+-"
+Signal - Part 1,Discovery,"Find the first signal source
+Find the second signal source
+Survive and extract from the location","+6,700 EXP
+Mechanic Rep +0.02
+10,000 Roubles
+3× Glock 9x19 SGM Tactical 50-round drum magazine",Yes,"Previous:
+Gunsmith - Part 2","Leads to:
+Signal - Part 2
+Insider"
+Insider,Standing,Reach level 3 loyalty with Prapor,"+6,700 EXP
+Mechanic Rep +0.02
+800 Euros
+2× SilencerCo Osprey 9 9x19 sound suppressor",Yes,"Previous:
+Signal - Part 1
+Gunsmith - Part 3","Leads to:
+-"
+Signal - Part 2,PickUp,"Find 3 PC CPUs in raid
+Hand over 3 PC CPUs to Mechanic
+Find 3 Rechargeable batteries in raid
+Hand over 3 Rechargeable batteries to Mechanic
+Find 3 Printed circuit boards in raid
+Hand over 3 Printed circuit boards to Mechanic
+Find 3 Broken GPhone smartphones in raid
+Hand over 3 Broken GPhone smartphones to Mechanic","+6,700 EXP
+Mechanic Rep +0.02
+50,000 Roubles",Yes,"Previous:
+Signal - Part 1","Leads to:
+Signal - Part 3
+Scout"
+Scout,Completion,"Locate the first Factory extraction
+Locate the second Factory extraction
+Locate the third Factory extraction
+Locate the fourth Factory extraction
+Survive and extract from the location","+6,800 EXP
+Mechanic Rep +0.02
+30,000 Roubles
+1× Factory emergency exit key",Yes,"Previous:
+Signal - Part 2","Leads to:
+Back Door
+The Huntsman Path - Factory Chief"
+Surplus Goods,Pickup,"Obtain MBT Integrated Navigation System on Reserve
+Hand over the navigation complex to Mechanic","+7,500 EXP
+Mechanic Rep +0.02
+40,000 Roubles
+2× Ultraviolet lamp
+2× Energy-saving lamp",Yes,"Previous:
+Back Door","Leads to:
+-"
+Back Door,Discover,"Find the unpowered secret exit on Reserve
+Extract through that exit","+8,200 EXP
+Mechanic Rep +0.02
+1,000 Euros
+1× SV-98 7.62x54R bolt-action sniper rifle",Yes,"Previous:
+Scout","Leads to:
+Surplus Goods"
+Signal - Part 3,Completion,"Place the first Signal Jammer on the specified place on Shoreline
+Place the second Signal Jammer on the specified place on Shoreline
+Place the third Signal Jammer on the specified place on Shoreline
+Survive and extract from the location","+8,500 EXP
+Mechanic Rep +0.02
+30,000 Roubles
+1× Benelli M3 Super 90 dual-mode 12ga shotgun
+40× 12/70 8.5mm Magnum buckshot",Yes,"Previous:
+Signal - Part 2","Leads to:
+Signal - Part 4
+The Door (+2hr)"
+Signal - Part 4,Skill,Reach the required Memory skill level of 4,"+8,600 EXP
+Mechanic Rep +0.02
+20,000 Roubles
+1× Nightforce ATACR 7-35x56 34mm riflescope",Yes,"Previous:
+Signal - Part 3","Leads to:
+Steady Signal"
+Farming - Part 1,Completion,"Fix the first control board with a Toolset on Factory
+Fix the second control board with a Toolset on Factory
+Survive and extract from the location","+6,600 EXP
+Mechanic Rep +0.02
+25,000 Roubles
+2× Light bulb
+2× Radiator helix",Yes,"Previous:
+Gunsmith - Part 1","Leads to:
+Farming - Part 2"
+Farming - Part 2,PickUp,"Find 2 Power cords in raid
+Hand over 2 Power cords to Mechanic
+Find 4 T-Shaped Plugs in raid
+Hand over 4 T-Shaped Plugs to Mechanic
+Find 2 Printed circuit boards in raid
+Hand over 2 Printed circuit boards to Mechanic","+5,500 EXP
+Mechanic Rep +0.02
+15,000 Roubles
+1× ASh-12 12.7x55 assault rifle
+1× NIXXOR lens",Yes,"Previous:
+Farming - Part 1","Leads to:
+Farming - Part 3
+Bad Habit
+Broadcast - Part 1"
+Bad Habit,PickUp,"Find 5 Malboro cigarettes in raid
+Hand over 5 Malboro cigarettes to Mechanic
+Find 5 Strike cigarettes in raid
+Hand over 5 Strike cigarettes to Mechanic
+Find 5 Wilston cigarettes in raid
+Hand over 5 Wilston cigarettes to Mechanic","+6,700 EXP
+Mechanic Rep +0.02
+300 Euros
+1× Glock 18C 9x19 machine pistol
+300× 9x19mm Green Tracer
+Unlocks barter for Bottle of OLOLO Multivitamins at Therapist LL1",Yes,"Previous:
+Farming - Part 2","Leads to:
+-"
+Farming - Part 3,Completion,"Find the warehouse of seized goods on Customs
+Obtain the package of graphics cards
+Hand over the package of graphics cards to Mechanic","+6,500 EXP
+Mechanic Rep +0.02
+20,000 Roubles
+1× UHF RFID Reader",Yes,"Previous:
+Farming - Part 2","Leads to:
+Farming - Part 4
+Corporate Secrets
+A Shooter Born in Heaven"
+Farming - Part 4,PickUp,"Find 3 Graphics cards in raid
+Hand over 3 Graphics cards to Mechanic
+Find 15 CPU fans in raid
+Hand over 15 CPU fans to Mechanic","+8,000 EXP
++3 Attention skill level
+Mechanic Rep +0.02
+1× Pistol case
+1× Glock 17 9x19 pistol (variant Viper)
+2× Physical Bitcoin
+4× Tetriz portable game console",Yes,"Previous:
+Farming - Part 3","Leads to:
+Fertilizers
+Import
+Energy Crisis"
+Psycho Sniper,Skill,"Reach the required Sniper Rifles skill level of 10
+Eliminate 5 PMC operatives without dying while using a bolt-action rifle","+26,700 EXP
++3 Sniper Rifles skill levels
++2 Intellect skill levels
++2 Perception skill levels
++1 Stress Resistance skill level
+Mechanic Rep +0.03
+150,000 Roubles
+Unlocks barter for Kalashnikov AK-104 7.62x39 assault rifle (variant T-SAW) at Mechanic LL3",Yes,"Previous:
+Wet Job - Part 6","Leads to:
+-"
+A Shooter Born in Heaven,Elimination,"Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Woods
+Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Reserve
+Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Shoreline
+Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Customs
+Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Lighthouse
+Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Streets of Tarkov
+Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Interchange","+12,500 EXP
++5 Sniper Rifles skill level
+Mechanic Rep +0.03
+150,000 Roubles
+1× HK G28 7.62x51 marksman rifle
+2× HK417/G28 7.62x51 20-round magazine
+40× 7.62x51mm M993
+3× GP coin
+Unlocks purchase of Magazine case at Mechanic LL3
+Unlocks purchase of HK G28 7.62x51 marksman rifle at Jaeger LL4",Yes,"Previous:
+Farming - Part 3","Leads to:
+-"
+Fertilizers,PickUp,"Find 5 Bundle of wires in raid
+Find 5 Capacitors in raid
+Hand over 5 Bundle of wires to Mechanic
+Hand over 5 Capacitors to Mechanic","+17,200 EXP
+Mechanic Rep +0.02
+65,000 Roubles
+2× Physical Bitcoin
+Unlocks purchase of HK USP .45 ACP pistol (variant Match) at Mechanic LL3
+Unlocks craft for 9x19mm PBP gzh at Workbench level 3
+Unlocks craft for 9x19mm RIP at Workbench level 3",Yes,"Previous:
+Farming - Part 4","Leads to:
+-"
+Import,PickUp,"Find 1 UHF RFID Fixed Reader in raid
+Find 1 VPX Flash Storage Module in raid
+Hand over 1 UHF RFID Fixed Reader to Mechanic
+Hand over 1 VPX Flash Storage Module to Mechanic","+29,000 EXP
+Mechanic Rep +0.03
+Jaeger Rep -0.01
+85,000 Roubles
+2× Physical Bitcoin
+1× Iridium military thermal vision module
+1× Trijicon REAP-IR thermal scope
+Unlocks purchase of 4.6x30mm FMJ SX at Mechanic LL4",Yes,"Previous:
+Farming - Part 4","Leads to:
+-"
+Chemistry Closet,Completion,"Locate Sanitar's office in the health resort
+Survive and extract from the location","+13,400 EXP
+Mechanic Rep +0.05
+1,000 Euro
+2× SilencerCo Hybrid 46 multi-caliber sound suppressor
+1× Graphics card
+Unlocks barter for T H I C C Weapon case at Mechanic LL4",Yes,"Previous:
+Colleagues - Part 1
+Anesthesia","Leads to:
+The Huntsman Path - Sadist
+Colleagues - Part 3
+Calibration"
+Calibration,Elimination,Eliminate 20 PMCs from at least 100m away,"+93,000 EXP
++1 Perception skill level
+1× Armband (Kiba Arms)
+5× Can of thermite
+Unlocks purchase of 5.45x39mm 7N40 at Prapor LL4
+Unlocks barter for Altyn bulletproof helmet (Olive Drab) at Ragman LL4",No,"Previous:
+Chemistry Closet","Leads to:
+The Courier"
+The Courier,Completion,"Stash a Trijicon REAP-IR scope under the base of the yellow crane at the construction site on Customs
+Stash a Trijicon REAP-IR scope behind the trash containers at the ""new"" gas station on Customs","+137,000 EXP
++1 Crafting skill level
++1 Intellect skill level
+1× SWORD International Mk-18 .338 LM marksman rifle",No,"Previous:
+Calibration","Leads to:
+-"
+Corporate Secrets,Exploration,"Find the data on water pump operation
+Hand over the extracted data
+Find the data on pumping station operation
+Hand over the extracted data","+8,000 EXP
+Mechanic Rep +0.02
+40,000 Roubles
+Unlocks barter for Kalashnikov AK-104 7.62x39 assault rifle (variant RPKT mod.1) at Mechanic LL1
+Unlocks purchase of DevTac Ronin ballistic helmet at Mechanic LL2",Yes,"Previous:
+Farming - Part 3","Leads to:
+Surveillance"
+Energy Crisis,Exploration,"Find and mark the group of fuel tanks with an MS2000 Marker on Lighthouse
+Find and mark the first tanker truck with an MS2000 Marker on Lighthouse
+Find and mark the second tanker truck with an MS2000 Marker on Lighthouse
+Find and mark the third tanker truck with an MS2000 Marker on Lighthouse","+13,000 EXP
+Mechanic Rep +0.02
+75,000 Roubles
+Unlocks barter for FN SCAR-L 5.56x45 assault rifle (variant Contract Wars) at Mechanic LL2
+Unlocks purchase of Tromix Monster Claw 12ga muzzle brake at Mechanic LL3
+Unlocks purchase of Granit 4 ballistic plate (Front) at Prapor LL4",Yes,"Previous:
+Farming - Part 4","Leads to:
+-"
+Broadcast - Part 1,Completion,"Locate the hidden recording studio on Lighthouse
+Place a Signal Jammer inside the studio","6,700 EXP
+650 Euros
+Mechanic Rep +0.03
+Can of thermite
+Pack of nails",Yes,"Previous:
+Farming - Part 2","Leads to:
+Broadcast - Part 2"
+Broadcast - Part 2,Completion,"Locate the place of bloody broadcast inside the grocery store on Streets of Tarkov
+Survive and extract from the location","7,400 EXP
+Mechanic Rep +0.02
+44,000 Roubles
+1x Steyr AUG A1 5.56x45 assault rifle
+3× Steyr AUG 5.56x45 10-round magazine
+60× 5.56x45mm M855",No,"Previous:
+Broadcast - Part 1","Leads to:
+Broadcast - Part 3
+Surveillance
+Watching You"
+Surveillance,PickUp,"Obtain the data on vehicle movement at the Concordia residential complex parking lot on Streets of Tarkov
+Hand over the information","+22,800 EXP
+Mechanic Rep +0.02
+126,000 Roubles
+1× Military power filter",No,"Previous:
+Broadcast - Part 2
+Corporate Secrets","Leads to:
+Developer's Secrets - Part 1"
+Watching You,PickUp,"Locate the surveillance spot on Streets of Tarkov
+Obtain the observation results","+18,500 EXP
+Mechanic Rep +0.02
+94,000 Roubles
+2× Military cable",No,"Previous:
+Broadcast - Part 2","Leads to:
+-"
+Network Provider - Part 1,PickUp,"Hand over the 4 found in raid Electronic components
+Hand over the 4 found in raid Military COFDM Wireless Signal Transmitters
+Hand over the 4 found in raid Gas analyzers
+Hand over the 4 found in raid Broken GPhone smartphones","+18,600 EXP
+Mechanic Rep +0.01",No,"Previous:
+-","Leads to:
+Network Provider - Part 2 (+1-9hr)"
+Network Provider - Part 2,Discovery,"Set up the retransmitter inside the MI-8 helicopter at the water treatment plant
+Set up the retransmitter inside the abandoned USEC cottage
+Set up the retransmitter at a high elevation overlooking the lighthouse
+Set up the retransmitter on the roof of the sunken building at the shore","+19,100 EXP
+Mechanic Rep +0.01",No,"Previous:
+Network Provider - Part 1 (+1-9hr)","Leads to:
+Assessment - Part 1"
+Assessment - Part 1,Elimination,Eliminate 20 PMC operatives at the Lighthouse premises,"+23,500 EXP
+Mechanic Rep +0.01",No,"Previous:
+Network Provider - Part 2","Leads to:
+Assessment - Part 2"
+Assessment - Part 2,Discovery,"Locate and mark the first bunker with an MS2000 marker on Woods
+Locate and mark the second bunker with an MS2000 marker on Woods
+Locate and mark the third bunker with an MS2000 marker on Woods
+Locate and mark the fourth bunker with an MS2000 marker on Woods","+24,200 EXP
+Mechanic Rep +0.01",No,"Previous:
+Assessment - Part 1","Leads to:
+Assessment - Part 3"
+Assessment - Part 3,PickUp / Elimination,"Eliminate 10 Raiders in The Lab
+Hand over the 20 found in raid SJ1 TGLabs combat stimulant injector
+Hand over the 8 found in raid SJ6 TGLabs combat stimulant injector
+Hand over the 2 found in raid SJ9 TGLabs combat stimulant injector","+24,800 EXP
+Mechanic Rep +0.01",No,"Previous:
+Assessment - Part 2","Leads to:
+Key to the Tower (+24hr)"
+Key to the Tower,PickUp,"Hand over the 2 found in raid Pieces of plexiglass
+Hand over the found in raid Insulating tape
+Hand over the 2 found in raid Military circuit boards
+Hand over the found in raid Military COFDM Wireless Signal Transmitter
+Hand over the found in raid Working LCD
+Obtain the Radio transmitter body on Lighthouse
+Hand over the Radio transmitter body","+30,500 EXP
+Mechanic Rep +0.01",No,"Previous:
+Assessment - Part 3 (+24hr)","Leads to:
+Knock-Knock (+24hr)"
+Knock-Knock,Completion,"Check if the radio transmitter works near the Lighthouse peninsula
+Survive and extract from the location","+31,300 EXP
+Mechanic Rep +0.01
+Lightkeeper Rep +0.01",No,"Previous:
+Key to the Tower (+24hr)","Leads to:
+Getting Acquainted"
+Getting Acquainted,PickUp,"Obtain the V3 Flash drive on Lighthouse
+Reflash the Radio transmitter
+Hand over the flash drive
+Visit the lighthouse building","+32,000 EXP
+Mechanic Rep +0.01",No,"Previous:
+Knock-Knock","Leads to:
+Information Source
+Top Secret (+21-22hr)"
+Make Amends - Buyout,Loyalty,"Hand over 1,000,000 RUB",Lightkeeper Rep +0.01,No,"Previous:
+-","Leads to:
+Make Amends - Equipment"
+Make Amends - Equipment,PickUp,Hand over the 4 found in raid SVDS sniper rifles,Lightkeeper Rep +0.01,No,"Previous:
+Make Amends - Buyout","Leads to:
+Make Amends"
+Make Amends,PickUp,"Obtain the V3 Flash drive on Lighthouse
+Reflash the Radio transmitter
+Hand over the flash drive
+Visit the lighthouse building","Mechanic Rep +0.01
+Lightkeeper Rep +0.01",No,"Previous:
+Make Amends - Equipment","Leads to:
+-"
+The Door,Completion,"Locate the cause of the signal jamming on Streets of Tarkov
+Install a WI-FI Camera to watch the door
+Install a WI-FI Camera to watch the stairwell
+Survive and extract from the location","+30,200 EXP
+Mechanic Rep +0.01
+500 Euros
+1× Rusted bloody key
+1× Beretta M9A3 9x19 pistol
+1× Remington Model 870 12ga pump-action shotgun",No,"Previous:
+Signal - Part 3 (+2hr)","Leads to:
+-"
+Steady Signal,Completion,"Mark the first weather station with an MS2000 Marker on Woods
+Mark the second weather station with an MS2000 Marker on Woods
+Mark the third weather station with an MS2000 Marker on Woods
+Mark the fourth weather station with an MS2000 Marker on Woods
+Mark the fifth weather station with an MS2000 Marker on Woods","+14,000 EXP
+Mechanic Rep +0.02
+50,000 Roubles
+1× Military cable
+1× Military circuit board",No,"Previous:
+Signal - Part 4","Leads to:
+-"
+Developer's Secrets - Part 1,Exploration,"Locate the IT firm office on Streets of Tarkov
+Unravel the secret of the firm's success
+Survive and extract from the location","+23,000 EXP
+Mechanic Rep +0.02
+130,000 Roubles
+1× PC CPU
+1× CPU fan
+1× Pliers Elite
+1× Awl",No,"Previous:
+Surveillance","Leads to:
+Developer's Secrets - Part 2"
+Developer's Secrets - Part 2,Exploration,"Unravel the secret of the IT firm's employees' high morale on Streets of Tarkov
+Survive and extract from the location","+25,400 EXP
+Mechanic Rep +0.02
+174,000 Roubles
+1× Pressure gauge
+3× Silicone tube",No,"Previous:
+Developer's Secrets - Part 1","Leads to:
+-"
